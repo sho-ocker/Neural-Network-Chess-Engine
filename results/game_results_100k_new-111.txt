@@ -1,0 +1,96 @@
+Average game length: 74.34 seconds
+Average number of moves: 571.33
+Total time taken for playing games: 446.04 seconds
+
+Win counts:
+Simple (WHITE) vs Medium (BLACK): 0 wins
+Medium (WHITE) vs Simple (BLACK): 1 wins
+Medium (WHITE) vs Complex (BLACK): 0 wins
+Complex (WHITE) vs Medium (BLACK): 0 wins
+Complex (WHITE) vs Simple (BLACK): 0 wins
+Simple (WHITE) vs Complex (BLACK): 0 wins
+
+simple (WHITE) vs medium (BLACK):
+None 1/2-1/2
+. . . . . . . .
+. . . . . . . .
+. . k . . . . .
+. . . . . . . .
+. . . . . . . .
+. . K . . . . b
+. . . . . . . .
+. . . . . . . .
+Number of moves made: 637
+Termination.INSUFFICIENT_MATERIAL
+Length: 38.51 seconds
+
+medium (WHITE) vs simple (BLACK):
+True 1-0
+. . . . . r n .
+. p . n p k b .
+p . . . b . . .
+. . . P . p P Q
+P . . . . . P .
+R . q P . N . .
+. . . . . P B R
+. N B . . K . .
+Number of moves made: 47
+Termination.CHECKMATE
+Length: 4.40 seconds
+
+medium (WHITE) vs complex (BLACK):
+None 1/2-1/2
+. . . . . . . .
+. . . . . . . .
+. . . . . K P k
+. . . Q . . . .
+. . . . . . . .
+. . . . . . . .
+. . . . . . . .
+. . . . . . . .
+Number of moves made: 181
+Termination.STALEMATE
+Length: 31.79 seconds
+
+complex (WHITE) vs medium (BLACK):
+None 1/2-1/2
+. . . . . . . .
+. . K . . . . .
+. . . . . . . .
+. . . . . . . .
+. . . . . . . .
+. . . . . . . .
+. . . . . k . .
+. . . . . . . .
+Number of moves made: 692
+Termination.INSUFFICIENT_MATERIAL
+Length: 108.81 seconds
+
+complex (WHITE) vs simple (BLACK):
+None 1/2-1/2
+. . . . . . . .
+. . . . . . . .
+. . . . . . . .
+. . . . . . . .
+. . . k . . . .
+. . . . . . . .
+. K . . . . . .
+. . . . b . . .
+Number of moves made: 318
+Termination.INSUFFICIENT_MATERIAL
+Length: 50.40 seconds
+
+simple (WHITE) vs complex (BLACK):
+None 1/2-1/2
+. . . . . . . .
+. . . . . . . .
+. . . . . . . .
+. . . . . . . .
+. . . . . . . .
+. . . . . . . k
+. . . . . . . .
+. . K . . . . .
+Number of moves made: 1553
+Termination.INSUFFICIENT_MATERIAL
+Length: 212.13 seconds
+

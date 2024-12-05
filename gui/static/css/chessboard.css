@@ -1,0 +1,27 @@
+body, html {
+    height: 100%;
+    margin: 0;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.square-55d63 {
+    box-sizing: content-box;
+    width: 12.5%;
+    height: 12.5%;
+    float: left;
+    position: relative;
+    padding: 0;
+}
+
+.highlight-white {
+    box-shadow: inset 0 0 3px 3px green;
+}
+.highlight-black {
+    box-shadow: inset 0 0 3px 3px blue;
+}
+
+.highlight-attack {
+    box-shadow: inset 0 0 3px 3px red; /* Highlighting attacked squares */
+}

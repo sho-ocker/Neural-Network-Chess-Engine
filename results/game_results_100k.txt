@@ -1,0 +1,3300 @@
+simple (WHITE) vs medium (BLACK): False 0-1
+n . . . . . k .
+p . . . . . . .
+. . . . . . . p
+. . . . . . . P
+P . . . p P . .
+. P . . P . . .
+. . r . K . . .
+. . b . . . . r
+number of moves made: 84
+Termination.CHECKMATE, Length: 10.26 seconds
+medium (WHITE) vs simple (BLACK): None 1/2-1/2
+. . B . . . . .
+. . . . . . . .
+. . . . . . . .
+. . . . . . . .
+. K . k . . . .
+. . . . . . . .
+. . . . . . . .
+. . . . . . . .
+number of moves made: 551
+Termination.INSUFFICIENT_MATERIAL, Length: 49.93 seconds
+medium (WHITE) vs complex (BLACK): False 0-1
+. . b . k . . .
+. . . p p . . .
+. . . . Q . . .
+p p . P n r . p
+P . . . . . . .
+. . . q . . . .
+. . . . r . . P
+R . B . K . . .
+number of moves made: 66
+Termination.CHECKMATE, Length: 17.91 seconds
+complex (WHITE) vs medium (BLACK): True 1-0
+. . R . . . k .
+. R . . . . . .
+. . . . . . . p
+p . . . . . . P
+P . . p . . . .
+. . . . n . P .
+. . p . . p . .
+. . K . . . . .
+number of moves made: 101
+Termination.CHECKMATE, Length: 28.39 seconds
+complex (WHITE) vs simple (BLACK): None 1/2-1/2
+. . . . . . . .
+. . . . . . . .
+. K . . . . . .
+. . . . . . . .
+. . . . . . . .
+. . . . . . . .
+. . . . . k . .
+. . . . . . . .
+number of moves made: 1188
+Termination.INSUFFICIENT_MATERIAL, Length: 180.94 seconds
+simple (WHITE) vs complex (BLACK): None 1/2-1/2
+. . . k . . . .
+. . . . . . . .
+. . . . . . . .
+. . . b . p . .
+p . . . . b . .
+p . . . . . . K
+. . . . . . n .
+. . . . . . . .
+number of moves made: 156
+Termination.STALEMATE, Length: 37.68 seconds
+simple (WHITE) vs medium (BLACK): None 1/2-1/2
+. . . . . . . .
+. . . . . . . .
+. . . . . . . .
+K . . . . . . .
+. . . . . . . .
+. . . . . . . .
+. . . k . . . .
+. . . . . . . .
+number of moves made: 413
+Termination.INSUFFICIENT_MATERIAL, Length: 24.02 seconds
+medium (WHITE) vs simple (BLACK): None 1/2-1/2
+. . . . . . k .
+. . . . . . . .
+. . . . . . . .
+. . . . . . . p
+. . . . . . . P
+. . . . q . r .
+. . . . . . . .
+. . . . . K . .
+number of moves made: 190
+Termination.STALEMATE, Length: 16.47 seconds
+medium (WHITE) vs complex (BLACK): None 1/2-1/2
+. . . . . . k .
+. . K . . . . .
+b . . . . . . .
+. . . . . . . .
+. . . . . . . .
+. . . . . . . .
+. . . . . . . .
+. . . . . . . .
+number of moves made: 599
+Termination.INSUFFICIENT_MATERIAL, Length: 88.03 seconds
+complex (WHITE) vs medium (BLACK): None 1/2-1/2
+. . . . . . . .
+. . . N . . . .
+. . . . . . . .
+K . . . . . . .
+. . k . . . . .
+. . . . . . . .
+. . . . . . . .
+. . . . . . . .
+number of moves made: 359
+Termination.INSUFFICIENT_MATERIAL, Length: 67.45 seconds
+complex (WHITE) vs simple (BLACK): None 1/2-1/2
+. . . . . . . .
+. . . . . . . .
+. . . . . . . .
+. . . . . . . .
+. . . . . . . .
+. . . . K . . .
+. . . . . . . k
+. . . b . . . .
+number of moves made: 141
+Termination.INSUFFICIENT_MATERIAL, Length: 25.08 seconds
+simple (WHITE) vs complex (BLACK): None 1/2-1/2
+. . . . . . . .
+. . . . . . . .
+. . . . . K . .
+. . . . . . . .
+k . . . . . . .
+. . . . . . . .
+. . . . . . . .
+. . . . . . . .
+number of moves made: 1249
+Termination.INSUFFICIENT_MATERIAL, Length: 133.63 seconds
+simple (WHITE) vs medium (BLACK): None 1/2-1/2
+. . . . . k . .
+. . . . . . . .
+. . . . . . . .
+. . . K . . . .
+. . . . . . . .
+. . . . . . . .
+. . . . . . . .
+. . . . . . . .
+number of moves made: 630
+Termination.INSUFFICIENT_MATERIAL, Length: 29.12 seconds
+medium (WHITE) vs simple (BLACK): None 1/2-1/2
+. . . . . . . .
+. . . . . . . .
+. . . B . . . p
+p . . . . P . k
+P . . . . . p P
+. . . . . . K .
+. . . . . . . .
+. . . . . . . .
+number of moves made: 161
+Termination.STALEMATE, Length: 11.62 seconds
+medium (WHITE) vs complex (BLACK): None 1/2-1/2
+. . . . . . . .
+. . K . . . . .
+. . . . . . . .
+. . . . . . . .
+. . . . . . . .
+. . . . . k . .
+. . . n . . . .
+. . . . . . . .
+number of moves made: 615
+Termination.INSUFFICIENT_MATERIAL, Length: 95.78 seconds
+complex (WHITE) vs medium (BLACK): False 0-1
+. . . . . . . .
+. . p . . . b p
+. R . . . . . .
+. . . . . . . .
+K . b k . . . .
+r . . . . . r .
+. . . q . . . .
+. . . . . . . .
+number of moves made: 94
+Termination.CHECKMATE, Length: 23.83 seconds
+complex (WHITE) vs simple (BLACK): True 1-0
+. N . . . . . .
+. . . . . . r .
+P . B . . . . k
+. . . . P . . .
+. p . . . . . R
+. P . . . . R P
+N . . . . K P .
+. . . . . . . .
+number of moves made: 141
+Termination.CHECKMATE, Length: 33.15 seconds
+simple (WHITE) vs complex (BLACK): None 1/2-1/2
+. K . . . . . .
+. . . . . . . .
+. . . . . . . .
+. . k . . . . .
+. . . . . . . .
+. . . . . . . .
+. . . . . . . .
+. . . . . . b .
+number of moves made: 1214
+Termination.INSUFFICIENT_MATERIAL, Length: 175.86 seconds
+simple (WHITE) vs medium (BLACK): None 1/2-1/2
+. . . . . . . .
+. . . B . . . .
+. . . . . . . .
+. . K . . . . .
+. . . . . . . .
+. . . . . . . .
+. k . . . . . .
+. . . . . . . .
+number of moves made: 219
+Termination.INSUFFICIENT_MATERIAL, Length: 16.31 seconds
+medium (WHITE) vs simple (BLACK): None 1/2-1/2
+. . . . . . . .
+. . . . . . . .
+. . . . . K . .
+. . . . . . . .
+. . . . . . . .
+. . . . . . . .
+. . . k n . . .
+. . . . . . . .
+number of moves made: 453
+Termination.INSUFFICIENT_MATERIAL, Length: 22.97 seconds
+medium (WHITE) vs complex (BLACK): None 1/2-1/2
+. . . . . . . .
+. . . . . . . .
+. . . . k . b .
+. . . . . . . .
+. . . K . . . .
+. . . . . . . .
+. . . . . . . .
+. . . . . . . .
+number of moves made: 317
+Termination.INSUFFICIENT_MATERIAL, Length: 53.78 seconds
+complex (WHITE) vs medium (BLACK): None 1/2-1/2
+. . . . . . . .
+. . . . . . . .
+k . . . . . . .
+. . . . . . . b
+. . . . . . . .
+. . . . . . . .
+. . . K . . . .
+. . . . . . . .
+number of moves made: 254
+Termination.INSUFFICIENT_MATERIAL, Length: 36.16 seconds
+complex (WHITE) vs simple (BLACK): None 1/2-1/2
+. . . . . . . .
+. . . . . . . .
+. . . . . . . K
+. . . . . . . .
+. . . . . . . .
+. . . . . . . .
+. . . . . . . .
+. . k . . . . .
+number of moves made: 417
+Termination.INSUFFICIENT_MATERIAL, Length: 58.17 seconds
+simple (WHITE) vs complex (BLACK): None 1/2-1/2
+. . . . . . k .
+. . . . . . . .
+. . . . . . . .
+. . . . . . . .
+. K . . . . . .
+. . . . . . . .
+. . . . . . . .
+. . . . . . . .
+number of moves made: 391
+Termination.INSUFFICIENT_MATERIAL, Length: 46.45 seconds
+simple (WHITE) vs medium (BLACK): None 1/2-1/2
+. . . . . . . .
+. . . . . K . .
+. . . . . . . .
+. . k . . . . .
+. . . . . . . .
+. . . . . . . .
+. . . . . . . .
+. . . . . . . .
+number of moves made: 385
+Termination.INSUFFICIENT_MATERIAL, Length: 20.05 seconds
+medium (WHITE) vs simple (BLACK): None 1/2-1/2
+. . . . . . . .
+. . . . . . . .
+. K . . . . . .
+. . . . . . . .
+. . . . . . k .
+. . . . . . . .
+. . . . . . . .
+. . . . . . . .
+number of moves made: 500
+Termination.INSUFFICIENT_MATERIAL, Length: 26.68 seconds
+medium (WHITE) vs complex (BLACK): None 1/2-1/2
+. . . . . . . .
+. . . . . . . .
+. . . . . . . .
+. . . . . . . .
+. . K . . . k .
+. . . . . . . .
+. . . . . . . .
+. . . . . . . .
+number of moves made: 1280
+Termination.INSUFFICIENT_MATERIAL, Length: 79.42 seconds
+complex (WHITE) vs medium (BLACK): False 0-1
+. . . . . . . .
+. . . . . . . .
+. . . . . . n p
+. P . . P . . .
+N . . . P . . .
+. . p . . . . k
+. . P . . . . .
+. . N . . r . K
+number of moves made: 118
+Termination.CHECKMATE, Length: 27.80 seconds
+complex (WHITE) vs simple (BLACK): None 1/2-1/2
+. . . . . . . .
+. . . . . . . .
+. . . . K . . .
+. k . . . . . .
+. . . . . . . .
+. . . . . . . .
+. . . . . . . .
+. . . . . . . .
+number of moves made: 1594
+Termination.INSUFFICIENT_MATERIAL, Length: 181.29 seconds
+simple (WHITE) vs complex (BLACK): None 1/2-1/2
+. . . . . . . .
+. . . . . . . .
+. . . . K . . .
+. . . . n . . .
+. . . . . . . .
+. . . . . . . .
+k . . . . . . .
+. . . . . . . .
+number of moves made: 554
+Termination.INSUFFICIENT_MATERIAL, Length: 49.25 seconds
+simple (WHITE) vs medium (BLACK): None 1/2-1/2
+. . . . . . . .
+. K . . . . . .
+. . . . . . . .
+. . . k . . . .
+. . . . . . . .
+. . . . . . . .
+. . . . . . . .
+. . . . . . . .
+number of moves made: 349
+Termination.INSUFFICIENT_MATERIAL, Length: 21.11 seconds
+medium (WHITE) vs simple (BLACK): True 1-0
+. . . . . . . .
+. . . . . . . B
+R . . . . N . .
+. . . . . . . .
+k . . . . . P .
+. . . . P . . .
+. R . . . K . .
+. . . . . . . .
+number of moves made: 213
+Termination.CHECKMATE, Length: 20.41 seconds
+medium (WHITE) vs complex (BLACK): None 1/2-1/2
+. . . . . . k .
+. . . . . . . .
+. . . . . . . .
+. . . . . . . .
+. . . . . . . .
+. . K b . . . .
+. . . . . . . .
+. . . . . . . .
+number of moves made: 351
+Termination.INSUFFICIENT_MATERIAL, Length: 52.75 seconds
+complex (WHITE) vs medium (BLACK): True 1-0
+. . . k . R . .
+. . p . . . . r
+p p . . . . . .
+P . n . R B N .
+. . P p . p . .
+. . P . . P . .
+. . . . . K . Q
+. . . . . . . .
+number of moves made: 85
+Termination.CHECKMATE, Length: 24.40 seconds
+complex (WHITE) vs simple (BLACK): None 1/2-1/2
+. . . . . . . .
+. . . . . . . .
+. . . P . . . .
+. . . . P . N .
+p P R . B . . .
+P . . . . . . .
+. . . . . K . k
+. . . . . . . .
+number of moves made: 253
+Termination.STALEMATE, Length: 50.45 seconds
+simple (WHITE) vs complex (BLACK): None 1/2-1/2
+. K . . . . . .
+. . . . . . . .
+. . . . . . . .
+. . . . . . . .
+. . . n . . . .
+. . . . . . . .
+. k . . . . . .
+. . . . . . . .
+number of moves made: 761
+Termination.INSUFFICIENT_MATERIAL, Length: 94.53 seconds
+simple (WHITE) vs medium (BLACK): None 1/2-1/2
+. . . . . . . .
+. . . . . . . .
+. . . . . . . .
+k . . . . . . .
+. . . . . . . .
+. . . . . . . .
+. . . . b . . .
+. . . . . . K .
+number of moves made: 388
+Termination.INSUFFICIENT_MATERIAL, Length: 19.53 seconds
+medium (WHITE) vs simple (BLACK): False 0-1
+r . . q k b . r
+. . p . p p p p
+. . . . . n . .
+p . . p . . . .
+. . p . P P b .
+P . N . . . . .
+. P n P . N P P
+R . B . K B R .
+number of moves made: 20
+Termination.CHECKMATE, Length: 1.78 seconds
+medium (WHITE) vs complex (BLACK): None 1/2-1/2
+. . . . . . . .
+. . . . . . . .
+. . K . . . . .
+. . . . . . . .
+. . . . . . . .
+. . . k . . . .
+. . . . . . . .
+. . . . . . . .
+number of moves made: 1779
+Termination.INSUFFICIENT_MATERIAL, Length: 255.62 seconds
+complex (WHITE) vs medium (BLACK): None 1/2-1/2
+. . . . . . . .
+. . . . . . . .
+. . . K . . . .
+. . . . . . . .
+. . . . . . . .
+. . . . . . . .
+. . . . . . . .
+. k . . . . . .
+number of moves made: 388
+Termination.INSUFFICIENT_MATERIAL, Length: 55.86 seconds
+complex (WHITE) vs simple (BLACK): None 1/2-1/2
+. . . . . . . .
+K . . . . . . .
+. . . . . . . .
+. . . . . . . .
+. . . . . . . .
+. . . . . . . .
+. . . . n . . k
+. . . . . . . .
+number of moves made: 513
+Termination.INSUFFICIENT_MATERIAL, Length: 38.23 seconds
+simple (WHITE) vs complex (BLACK): None 1/2-1/2
+. . . . . . . k
+. . . . . Q . .
+. . . K . . . .
+. . . . . . . .
+. . . . . . . .
+. . . . . . . .
+. . . . . . . .
+. . . . . . . .
+number of moves made: 399
+Termination.STALEMATE, Length: 61.60 seconds
+simple (WHITE) vs medium (BLACK): None 1/2-1/2
+. . . . . . . .
+. K . . . k . .
+. . . . . . . .
+. . . . . . . .
+. . . . . . . .
+. . . . . . . .
+. . . . . . . .
+. . . . . . . .
+number of moves made: 544
+Termination.INSUFFICIENT_MATERIAL, Length: 22.81 seconds
+medium (WHITE) vs simple (BLACK): None 1/2-1/2
+. . . . . . . .
+. . . . N . . .
+. . . . . . . .
+. . . . K . . .
+. . . . . . k .
+. . . . . . . .
+. . . . . . . .
+. . . . . . . .
+number of moves made: 470
+Termination.INSUFFICIENT_MATERIAL, Length: 35.88 seconds
+medium (WHITE) vs complex (BLACK): None 1/2-1/2
+. . . . . . . .
+. . . . . . . .
+. . . . . . . .
+. . . . k . . K
+. . . . . . . .
+. . . . . . . .
+. . . . . . . .
+. . . . . . . .
+number of moves made: 758
+Termination.INSUFFICIENT_MATERIAL, Length: 57.21 seconds
+complex (WHITE) vs medium (BLACK): False 0-1
+. . . . . . . .
+. . . . . . R n
+. . p . . . P p
+B . P b . R . P
+. . p . . P . .
+. r n . . . . k
+. . K . . . . .
+. . . q . . . .
+number of moves made: 112
+Termination.CHECKMATE, Length: 26.66 seconds
+complex (WHITE) vs simple (BLACK): None 1/2-1/2
+. . . . . . . .
+. . . . . . . .
+. . . . . . . .
+. . . . k . . .
+. . . . . . . .
+. . . . . . . .
+. . . . . . . .
+. . . K . . . .
+number of moves made: 1458
+Termination.INSUFFICIENT_MATERIAL, Length: 152.54 seconds
+simple (WHITE) vs complex (BLACK): None 1/2-1/2
+. . . . . . . .
+. . . . . . . .
+. . . . . . . k
+. . r . . . . .
+K . . . . . . .
+. . . . r . . .
+. . . . . . . .
+. . . . q . . .
+number of moves made: 486
+Termination.STALEMATE, Length: 88.41 seconds
+simple (WHITE) vs medium (BLACK): None 1/2-1/2
+. . . . . . . .
+. . . . . . . .
+. . . . . . . .
+. . . . . . . .
+. K . . . k . .
+. . . . . . . .
+. . . . . . . .
+. . . . . . . .
+number of moves made: 748
+Termination.INSUFFICIENT_MATERIAL, Length: 36.53 seconds
+medium (WHITE) vs simple (BLACK): None 1/2-1/2
+. . . . . . . .
+. . . . . . . .
+. . . . . . . .
+. . . . . . . .
+. . . . N . . .
+. . . . . . . K
+. . . . . . . .
+. . . . k . . .
+number of moves made: 511
+Termination.INSUFFICIENT_MATERIAL, Length: 22.38 seconds
+medium (WHITE) vs complex (BLACK): None 1/2-1/2
+K . . . . . . .
+. . . . . . . .
+. . . . . . . .
+. . . . . . . .
+. . . . . . . .
+. . k . . . . .
+. . . . . . . .
+. . . . . . . .
+number of moves made: 186
+Termination.INSUFFICIENT_MATERIAL, Length: 29.02 seconds
+complex (WHITE) vs medium (BLACK): None 1/2-1/2
+. . . . . . . .
+K . . . . . . .
+. . . . . . . .
+. . . . . . . .
+. . . . . . . .
+. . . . . . . .
+. . . . . . . .
+. . k . . . . .
+number of moves made: 498
+Termination.INSUFFICIENT_MATERIAL, Length: 80.42 seconds
+complex (WHITE) vs simple (BLACK): None 1/2-1/2
+. . . . . . . .
+. . . . . . . .
+. . . K . . . .
+. . . . . . k .
+. . . B . . . .
+. . . . . . . .
+. . . . . . . .
+. . . . . . . .
+number of moves made: 798
+Termination.INSUFFICIENT_MATERIAL, Length: 133.97 seconds
+simple (WHITE) vs complex (BLACK): None 1/2-1/2
+. . . . . . . .
+. . . . . . . .
+. . . . . . . .
+. . . . . . . .
+. . . . . . . .
+. . q k . . . .
+K . . . . . . .
+. . r . . . . .
+number of moves made: 1878
+Termination.STALEMATE, Length: 288.48 seconds
+simple (WHITE) vs medium (BLACK): None 1/2-1/2
+K . . . . . . .
+. . . . . . . .
+. . . . . . . .
+. . . . . . . .
+. . . q p . . .
+. r . . . . . k
+. q . . . . . .
+. . . . . . . .
+number of moves made: 668
+Termination.STALEMATE, Length: 64.87 seconds
+medium (WHITE) vs simple (BLACK): None 1/2-1/2
+. . k . . . . .
+. . . . . N N .
+. . P B . . . .
+. . . B . . . .
+. . . p . . K .
+. . . P . . . .
+. . . . . . . .
+. . . . . . . .
+number of moves made: 227
+Termination.STALEMATE, Length: 18.70 seconds
+medium (WHITE) vs complex (BLACK): None 1/2-1/2
+. . . . . . . .
+. . . . . . . .
+K . . . . . . .
+. . . . . . . .
+. . . . . . . .
+. . . . . . . .
+. . . . . . . .
+k . . . . . . .
+number of moves made: 1113
+Termination.INSUFFICIENT_MATERIAL, Length: 131.50 seconds
+complex (WHITE) vs medium (BLACK): None 1/2-1/2
+. . . . . . . .
+. . . . K . . .
+. . . . . . . .
+. k . . . . . .
+. . . . . . . .
+. . . . . . . .
+. . . . . . . .
+. . . . . . . .
+number of moves made: 582
+Termination.INSUFFICIENT_MATERIAL, Length: 86.01 seconds
+complex (WHITE) vs simple (BLACK): None 1/2-1/2
+. . . . . . . .
+. . . b . k . .
+. . N . . . . .
+. . . . . . . r
+K . . . n . p .
+. . . . . . P .
+. q . . . . . .
+. . . . . . . .
+number of moves made: 168
+Termination.STALEMATE, Length: 32.75 seconds
+simple (WHITE) vs complex (BLACK): None 1/2-1/2
+. . . . . . . .
+K . . . . . . .
+. . . . . . . .
+. . . . . . . .
+. . . . n . . .
+. . . . . . . .
+. . . . . . . .
+. . . . . . . k
+number of moves made: 697
+Termination.INSUFFICIENT_MATERIAL, Length: 71.70 seconds
+simple (WHITE) vs medium (BLACK): None 1/2-1/2
+. . . . . . . .
+. . K . . . . .
+. . . . . b . .
+. . . . . . . .
+. . . . . . . .
+. . . . . . . .
+. . . . . . k .
+. . . . . . . .
+number of moves made: 327
+Termination.INSUFFICIENT_MATERIAL, Length: 23.67 seconds
+medium (WHITE) vs simple (BLACK): None 1/2-1/2
+. . . . . . . .
+. . . K . . . .
+. . . . . . k .
+. . . . . . . .
+. . . . . . . .
+. . . . . . . .
+. . . . . . . .
+. . . . . . . .
+number of moves made: 458
+Termination.INSUFFICIENT_MATERIAL, Length: 29.50 seconds
+medium (WHITE) vs complex (BLACK): None 1/2-1/2
+. . . . . . . .
+. . . . . . . .
+. . . . . . . .
+. . . . . . . .
+. p . . . b . .
+. P . . . . . .
+K . k . . . . p
+. . . q . . . .
+number of moves made: 184
+Termination.STALEMATE, Length: 26.92 seconds
+complex (WHITE) vs medium (BLACK): None 1/2-1/2
+. . . . . . . .
+. . . . . . . .
+K . . . . . . .
+. . . . . . . .
+. . k . . . . .
+. . . . . . . .
+. . . . . . . .
+. . . . . . . .
+number of moves made: 1482
+Termination.INSUFFICIENT_MATERIAL, Length: 168.29 seconds
+complex (WHITE) vs simple (BLACK): None 1/2-1/2
+. . . . . . . .
+. . . . . . . .
+. . K . . . . .
+. . . . . . . .
+. . . . . . . .
+. . . . . . . .
+. . . . . . . .
+. . . k . . . .
+number of moves made: 724
+Termination.INSUFFICIENT_MATERIAL, Length: 86.71 seconds
+simple (WHITE) vs complex (BLACK): False 0-1
+q . . . . . . .
+. N . . . . . .
+. . . . R . . .
+. . . . . . . P
+. . . . . k . P
+. r . . . . . .
+. r . . . . K .
+. . . . r q . .
+number of moves made: 182
+Termination.CHECKMATE, Length: 43.08 seconds
+simple (WHITE) vs medium (BLACK): None 1/2-1/2
+. . . . . . . .
+. . . . . . . .
+. . . . . . . .
+. . . . . . . .
+. . . q . . . .
+. . . . . . . .
+. r . . . k . .
+. . K . . . . .
+number of moves made: 372
+Termination.STALEMATE, Length: 30.77 seconds
+medium (WHITE) vs simple (BLACK): None 1/2-1/2
+. . K . . . . .
+. . . . . . . .
+. . . . . . . .
+. . . . . . . .
+. . . . . . . .
+. . . . . . . .
+. . . . . . . k
+. . . b . . . .
+number of moves made: 261
+Termination.INSUFFICIENT_MATERIAL, Length: 17.41 seconds
+medium (WHITE) vs complex (BLACK): None 1/2-1/2
+. . . . . . . .
+. . . . . . . .
+. . . . . . . .
+. . . . . . . .
+. K . . . . . .
+. . . . . . . .
+. . . . . k . .
+. . . . . . . .
+number of moves made: 400
+Termination.INSUFFICIENT_MATERIAL, Length: 48.38 seconds
+complex (WHITE) vs medium (BLACK): None 1/2-1/2
+. . . . . . . .
+. . . . . . . .
+. . . . . . . .
+. k . . . . . .
+. . . . . . . .
+. . . . . K . .
+. . . . . . . .
+. . . . . . . .
+number of moves made: 278
+Termination.INSUFFICIENT_MATERIAL, Length: 44.10 seconds
+complex (WHITE) vs simple (BLACK): None 1/2-1/2
+. . . . . . . .
+. . . . . . . .
+K . . . . . . .
+. . . . . . . .
+. . . . . . . .
+. . . . . . . .
+. . . . k N . .
+. . . . . . . .
+number of moves made: 265
+Termination.INSUFFICIENT_MATERIAL, Length: 35.30 seconds
+simple (WHITE) vs complex (BLACK): None 1/2-1/2
+. . . . . . . .
+. . . . . . . .
+. . . . . . . .
+. . . . . . B .
+. K . . . . . .
+. . . . . . . .
+. . . . . . . .
+. . . . . . . k
+number of moves made: 219
+Termination.INSUFFICIENT_MATERIAL, Length: 34.98 seconds
+simple (WHITE) vs medium (BLACK): None 1/2-1/2
+. . . . . . . .
+. . . . . . . .
+. . . K . . . .
+. . . . . . . .
+. . k . . . . .
+. . . . . . . .
+. . . . . . . .
+. n . . . . . .
+number of moves made: 1414
+Termination.INSUFFICIENT_MATERIAL, Length: 82.65 seconds
+medium (WHITE) vs simple (BLACK): None 1/2-1/2
+. . . . . . . .
+. . . . . . . .
+. . . . . . K .
+. . . . . . . .
+. . . . . . n .
+. . . . . . . .
+. . . . . . . .
+. . . . k . . .
+number of moves made: 668
+Termination.INSUFFICIENT_MATERIAL, Length: 31.57 seconds
+medium (WHITE) vs complex (BLACK): None 1/2-1/2
+B . . . k . . .
+. . . . . . . .
+. . . . . . . .
+. . K . . . . .
+. . . . . . . .
+. . . . . . . .
+. . . . . . . .
+. . . . . . . .
+number of moves made: 469
+Termination.INSUFFICIENT_MATERIAL, Length: 47.01 seconds
+complex (WHITE) vs medium (BLACK): True 1-0
+. . . q r B k .
+. . . b . . Q .
+. . . . p . . p
+. p . . . . . .
+. . . p . . P .
+. P . . . p . .
+. . P . . . B P
+. N . . . R K .
+number of moves made: 93
+Termination.CHECKMATE, Length: 26.50 seconds
+complex (WHITE) vs simple (BLACK): None 1/2-1/2
+. . . . . . . .
+. . . . . . . .
+. . . . . . . .
+. K . . . . . .
+. . . . . . . .
+. . . . . . . .
+. . . . . . . .
+. . k . . . . .
+number of moves made: 478
+Termination.INSUFFICIENT_MATERIAL, Length: 77.43 seconds
+simple (WHITE) vs complex (BLACK): True 1-0
+. . . Q . . k r
+r . p . . p p p
+. . . . . . q n
+n . P P . . . .
+. p . . p P . .
+p P p . B . . .
+P R b . P K R P
+. . . . . B . .
+number of moves made: 61
+Termination.CHECKMATE, Length: 16.45 seconds
+simple (WHITE) vs medium (BLACK): None 1/2-1/2
+. . . . . . . .
+. . . K . . k .
+. . N . . . . .
+. . . . . . . .
+. . . . . . . .
+. . . . . . . .
+. . . . . . . .
+. . . . . . . .
+number of moves made: 257
+Termination.INSUFFICIENT_MATERIAL, Length: 20.30 seconds
+medium (WHITE) vs simple (BLACK): None 1/2-1/2
+. . . . . . k .
+. . . . . . . .
+. . . . . . . .
+. . . . . . . K
+. b . . . . . .
+. . . . . . . .
+. . . . . . . .
+. . . . . . . .
+number of moves made: 234
+Termination.INSUFFICIENT_MATERIAL, Length: 15.55 seconds
+medium (WHITE) vs complex (BLACK): None 1/2-1/2
+. . . . . . . .
+. . . . . . . .
+. . . . . . . .
+K . . . . . . .
+. . . k . . . .
+. . . . . . . .
+. . . . . . . .
+. . . . . . . .
+number of moves made: 773
+Termination.INSUFFICIENT_MATERIAL, Length: 118.16 seconds
+complex (WHITE) vs medium (BLACK): True 1-0
+. . . . . . . N
+. . . . . . . .
+. . . . . . Q k
+. . . . . . . .
+. . . . . . . .
+. . . . . . . .
+. . . b . . B .
+. K . . . . . .
+number of moves made: 161
+Termination.CHECKMATE, Length: 33.65 seconds
+complex (WHITE) vs simple (BLACK): True 1-0
+. . . Q . . . .
+k . . . R . . .
+. . . . . . . .
+. B p . . . . P
+K . P . . . . .
+. . . . . . . .
+. . . . . . . .
+. . . . . . . .
+number of moves made: 201
+Termination.CHECKMATE, Length: 44.75 seconds
+simple (WHITE) vs complex (BLACK): False 0-1
+. . . . . . . .
+. . . . . . . .
+. . . . . . k .
+. . . p . . . .
+p . . . n . . .
+P . . . . . . .
+. K r . . . . .
+. . r . . . . .
+number of moves made: 158
+Termination.CHECKMATE, Length: 33.44 seconds
+simple (WHITE) vs medium (BLACK): None 1/2-1/2
+. . . . . . . .
+. . . . . K . .
+. . . . . . . .
+. k . . . . . .
+. . . . . . . .
+. . . . . . . .
+. . . . . . . .
+. . . . . . . .
+number of moves made: 1007
+Termination.INSUFFICIENT_MATERIAL, Length: 47.93 seconds
+medium (WHITE) vs simple (BLACK): None 1/2-1/2
+. . . . . . . .
+. . . . . . . K
+. . . . . . . .
+. . . . . . . .
+. . . . . . . .
+. . . . . . . .
+. . . . . . b .
+. . . . k b . .
+number of moves made: 443
+Termination.INSUFFICIENT_MATERIAL, Length: 28.10 seconds
+medium (WHITE) vs complex (BLACK): None 1/2-1/2
+. . . . . Q . .
+. . . . . . . .
+. K . . . . k .
+. . . . . . . .
+. . . . . . . Q
+. . . . . . . .
+. . . . . . B .
+. . . . . . . .
+number of moves made: 317
+Termination.STALEMATE, Length: 41.60 seconds
+complex (WHITE) vs medium (BLACK): None 1/2-1/2
+. . . . K . . .
+. . . . . . . .
+. . . . . . . .
+. k . . . . . .
+. . . . . . . .
+. . . . . . . .
+. . . . . . . .
+. . . . . . . .
+number of moves made: 694
+Termination.INSUFFICIENT_MATERIAL, Length: 84.33 seconds
+complex (WHITE) vs simple (BLACK): None 1/2-1/2
+. . . . . . . .
+. . . . . . . .
+. . . . . . . .
+. . K . . . . .
+. . . . b . . .
+. . . . . . . .
+. . . . . k . .
+. . . b . . . .
+number of moves made: 360
+Termination.INSUFFICIENT_MATERIAL, Length: 43.19 seconds
+simple (WHITE) vs complex (BLACK): None 1/2-1/2
+. . . . . . . .
+. . K . . . k .
+. . . . . . . .
+. . . . . . . .
+. . . . . . . .
+. . . . . . . .
+. . . . . . . .
+. . . . . . . .
+number of moves made: 495
+Termination.INSUFFICIENT_MATERIAL, Length: 67.30 seconds
+simple (WHITE) vs medium (BLACK): None 1/2-1/2
+. . . N . . . .
+. . . . . . . .
+. . . . . . . .
+. . K . . . . .
+. . . . . . . .
+. k . . . . . .
+. . . . . . . .
+. . . . . . . .
+number of moves made: 469
+Termination.INSUFFICIENT_MATERIAL, Length: 26.80 seconds
+medium (WHITE) vs simple (BLACK): False 0-1
+. . r . . k . .
+P . . . . . . .
+. . . . . P . .
+P . . . . . P .
+. . B p . . . R
+. . . . . . . .
+. . . r . . . .
+. r . . . K . .
+number of moves made: 154
+Termination.CHECKMATE, Length: 12.96 seconds
+medium (WHITE) vs complex (BLACK): None 1/2-1/2
+. . . . . . . .
+. . K . . . k .
+. . . . . . . .
+. . . . . . . .
+. . . . . . . .
+. . . . . . . .
+. . . . . . . .
+. . . . . . . .
+number of moves made: 279
+Termination.INSUFFICIENT_MATERIAL, Length: 40.40 seconds
+complex (WHITE) vs medium (BLACK): True 1-0
+. R . . . . . k
+. . . . . . p .
+. . p . . . P .
+p . . . . . . .
+P . K . . . . .
+. . . . . . . .
+. . . . . . . .
+. . . . . . . .
+number of moves made: 111
+Termination.CHECKMATE, Length: 31.04 seconds
+complex (WHITE) vs simple (BLACK): None 1/2-1/2
+. . . . . . . .
+. . . . . . . .
+. . . . . . . .
+. . K . k . . .
+. . . . . . . .
+. . . . . . . .
+. . . . . . . .
+. . . . . . . .
+number of moves made: 1156
+Termination.INSUFFICIENT_MATERIAL, Length: 140.09 seconds
+simple (WHITE) vs complex (BLACK): None 1/2-1/2
+. . . . . . . .
+. . . . . . . .
+. . . p . r p .
+p . . . . . . p
+. . . . k . r P
+. . . n . b . K
+. . . q . . . .
+r . . . . . . .
+number of moves made: 1320
+Termination.STALEMATE, Length: 358.27 seconds
+simple (WHITE) vs medium (BLACK): True 1-0
+. . . . . . . .
+. . . . . . . R
+N . R . . . . .
+. r . r . . p k
+. . . p . . . .
+. . . . q . p P
+. . P . . . . .
+. . . . . . . K
+number of moves made: 155
+Termination.CHECKMATE, Length: 16.48 seconds
+medium (WHITE) vs simple (BLACK): True 1-0
+. . k . . . . R
+. . . . . . . .
+. . . Q . . . .
+p . . B R . . .
+. . . . . . b .
+. p . P . . . P
+. . . . . . . .
+. n . . . . . K
+number of moves made: 125
+Termination.CHECKMATE, Length: 14.60 seconds
+medium (WHITE) vs complex (BLACK): None 1/2-1/2
+. . . . . . . .
+. . . . K . . .
+. . . . . . . .
+. . . . . . . .
+. . . . . . . .
+. . . . . . . .
+k . . . . . . .
+. . . . . . . .
+number of moves made: 2015
+Termination.INSUFFICIENT_MATERIAL, Length: 258.53 seconds
+complex (WHITE) vs medium (BLACK): False 0-1
+. . . . . . . .
+. . . . . . . .
+. . . . . . . .
+. . . . . . . .
+. . . . . . . .
+r . . . . . . .
+. . . . . . . .
+K . k . . . . .
+number of moves made: 410
+Termination.CHECKMATE, Length: 53.89 seconds
+complex (WHITE) vs simple (BLACK): False 0-1
+. . . k . . . .
+. . . . . . . .
+. . . . . . . .
+K q . . . . . .
+. . . . r . . .
+. . . . . . . .
+. . . . . . . .
+. . . . . b . .
+number of moves made: 272
+Termination.CHECKMATE, Length: 35.52 seconds
+simple (WHITE) vs complex (BLACK): None 1/2-1/2
+. . . . . . . .
+. . . . . . . .
+. . K . . . . .
+. . . . . . . .
+. . . . . . . .
+. . . . . . . .
+. . . . . . . .
+. . k . . . . .
+number of moves made: 1031
+Termination.INSUFFICIENT_MATERIAL, Length: 151.17 seconds
+simple (WHITE) vs medium (BLACK): None 1/2-1/2
+. . . . . . . .
+. . . . . . . .
+. . . . . . . .
+. . . . . . . .
+. . . . . . . k
+. K . . . . . .
+. . . . . . . .
+. . . . . . . .
+number of moves made: 243
+Termination.INSUFFICIENT_MATERIAL, Length: 15.80 seconds
+medium (WHITE) vs simple (BLACK): True 1-0
+. . . . Q . k .
+. r p p . . p .
+. . . . . p . p
+p . P p . . N .
+P . . n . P . .
+. . . . . . . .
+. P . b . K P P
+. R B . . B R .
+number of moves made: 39
+Termination.CHECKMATE, Length: 4.33 seconds
+medium (WHITE) vs complex (BLACK): None 1/2-1/2
+. . . . . K . .
+. . . . . . . .
+. . . . . . . .
+. . . . . . . .
+. . . . . . . .
+. . k . . . . .
+. . . . . . . .
+. . . . . . . .
+number of moves made: 333
+Termination.INSUFFICIENT_MATERIAL, Length: 50.65 seconds
+complex (WHITE) vs medium (BLACK): None 1/2-1/2
+. . . . . . . .
+. . . . . . . .
+. . . . . . . .
+. k . . . . . .
+. . . . . . . K
+. . . . . . . .
+. . . . . . . .
+. . . . . . . .
+number of moves made: 270
+Termination.INSUFFICIENT_MATERIAL, Length: 33.53 seconds
+complex (WHITE) vs simple (BLACK): None 1/2-1/2
+. . . . . . . .
+. . . . . . . .
+. . K . . . . .
+. . . . . . . .
+. . k B . . . .
+. . . . . . . .
+. . . . . . . .
+. . . . . . . .
+number of moves made: 390
+Termination.INSUFFICIENT_MATERIAL, Length: 63.00 seconds
+simple (WHITE) vs complex (BLACK): None 1/2-1/2
+. . . . . . . .
+. K . . k . . .
+. . . . . . . .
+. . . . . . . .
+. . . . . . . .
+. . . . . . . .
+. . . . . . . .
+. . . . . . . .
+number of moves made: 320
+Termination.INSUFFICIENT_MATERIAL, Length: 30.47 seconds
+simple (WHITE) vs medium (BLACK): None 1/2-1/2
+. . . . . . N .
+K . . . . . . .
+. . . . . . . .
+. . . . . . . .
+. . . . k . . .
+. . . . . . . .
+. . . . . . . .
+. . . . . . . .
+number of moves made: 431
+Termination.INSUFFICIENT_MATERIAL, Length: 32.49 seconds
+medium (WHITE) vs simple (BLACK): None 1/2-1/2
+. . . . . . . .
+. . . . . . . .
+. K . . . . . .
+. . . . . . . .
+. . . . . . . .
+. . . . . . . .
+. . . . k . . .
+. . . . . . n .
+number of moves made: 1370
+Termination.INSUFFICIENT_MATERIAL, Length: 47.50 seconds
+medium (WHITE) vs complex (BLACK): False 0-1
+r . . q k b . r
+p . p . p p . p
+. . . p . . p n
+. N P . . . . .
+. . b . . . . .
+. . . . P N . P
+P . . . K P . .
+. . q . . B R .
+number of moves made: 36
+Termination.CHECKMATE, Length: 9.53 seconds
+complex (WHITE) vs medium (BLACK): None 1/2-1/2
+. . . . K . . .
+. . . . . . . .
+. . . . . . . .
+. . . . . . . .
+. . . . . . . .
+. . . . k . . .
+. . . . . . . .
+. . . . . . . .
+number of moves made: 836
+Termination.INSUFFICIENT_MATERIAL, Length: 104.35 seconds
+complex (WHITE) vs simple (BLACK): None 1/2-1/2
+. . . . . . . .
+. . . . . . . .
+b . . . . . . .
+. . . . . . . .
+. . . . . . . .
+. . . . . . . .
+. K . . . . . .
+. . . . k . . .
+number of moves made: 236
+Termination.INSUFFICIENT_MATERIAL, Length: 30.43 seconds
+simple (WHITE) vs complex (BLACK): None 1/2-1/2
+. . . . . . . N
+. . K . . . . .
+. . . . . . . .
+. . . . . . . .
+. . . . . . . .
+. . k . . . . .
+. . . . . . . .
+. . . . . . . .
+number of moves made: 407
+Termination.INSUFFICIENT_MATERIAL, Length: 36.17 seconds
+simple (WHITE) vs medium (BLACK): None 1/2-1/2
+. . . K . . . .
+. . . . . . . .
+. . . . q . . .
+. . . . . . . .
+. . . . . b . .
+. . . . . . . .
+. . . . . . . .
+. . . k . . . .
+number of moves made: 276
+Termination.STALEMATE, Length: 18.20 seconds
+medium (WHITE) vs simple (BLACK): None 1/2-1/2
+. . . . . Q . .
+. . . k . . . .
+. . . B . . . p
+. . . . R . . P
+. . P . . P . .
+. . . K . . P .
+. . . . . . B R
+. . . N . . . .
+number of moves made: 89
+Termination.STALEMATE, Length: 9.09 seconds
+medium (WHITE) vs complex (BLACK): False 0-1
+. n . . . . . .
+r p p . . k r .
+. . . . . . . .
+. . . P P . . .
+. . . P . b . P
+P p . B . . . .
+. . . . . n . K
+. . . . . R . .
+number of moves made: 86
+Termination.CHECKMATE, Length: 19.50 seconds
+complex (WHITE) vs medium (BLACK): False 0-1
+. . . . . . k .
+. . . . . . . .
+. . . . . q . B
+. . P . . . . K
+. . p . . b . .
+. . . . . q . P
+. . . r R . . .
+. . . . . . . .
+number of moves made: 110
+Termination.CHECKMATE, Length: 26.11 seconds
+complex (WHITE) vs simple (BLACK): True 1-0
+. . . q R . . .
+p . r . k . Q .
+. p p N . . . .
+n N . n . . p .
+. P P B . . . .
+. . . . . . . b
+P . . P . . P P
+. . K R . B R .
+number of moves made: 45
+Termination.CHECKMATE, Length: 13.53 seconds
+simple (WHITE) vs complex (BLACK): False 0-1
+r . . . . . . b
+. . p . . p k .
+. p . . . n P .
+p P N . . . . p
+P n . . . R b q
+. . . . . . . .
+. B . P . . P P
+. . K . q B N R
+number of moves made: 54
+Termination.CHECKMATE, Length: 12.62 seconds
+simple (WHITE) vs medium (BLACK): False 0-1
+. . . B Q . . .
+. . . . . . . k
+. . r . . P p .
+. B . . . . . .
+. . . . . . . K
+r . . . . . q .
+. n . . . . . .
+. . . . . . . .
+number of moves made: 148
+Termination.CHECKMATE, Length: 15.92 seconds
+medium (WHITE) vs simple (BLACK): True 1-0
+. . . . Q . . .
+. . N . . . B .
+. . B . . . p .
+. . . . . R . k
+. . . . . . . p
+. . . . P . P P
+. . . . . . . .
+. . n K . . . R
+number of moves made: 143
+Termination.CHECKMATE, Length: 15.29 seconds
+medium (WHITE) vs complex (BLACK): None 1/2-1/2
+. . . . . . . .
+. . k . . . . .
+. . . . . . . .
+K . . . . . . .
+. . . . . . . .
+. . . . . . . .
+. . . . . . . .
+. . . . . . . .
+number of moves made: 1343
+Termination.INSUFFICIENT_MATERIAL, Length: 140.16 seconds
+complex (WHITE) vs medium (BLACK): None 1/2-1/2
+. . . . . . . .
+. . . . . . . .
+. . . . . . . K
+. . . . . . . .
+. . . . . . . .
+. . . . . . . .
+. . . . . k . .
+. . . . . . . .
+number of moves made: 924
+Termination.INSUFFICIENT_MATERIAL, Length: 101.46 seconds
+complex (WHITE) vs simple (BLACK): None 1/2-1/2
+. . . . . . . .
+. . . . . . . .
+. . . . K . . .
+. . . . . . . .
+. . . . . . . .
+k . . . . . . .
+. . n . . . . .
+. . . . . . . .
+number of moves made: 326
+Termination.INSUFFICIENT_MATERIAL, Length: 38.56 seconds
+simple (WHITE) vs complex (BLACK): None 1/2-1/2
+. . . . K . . .
+. . . . . . k .
+. . . . . . n .
+. p . . . . . .
+. . . r . . . .
+. . p . . . . .
+. . P p . . . .
+. . . . . . . .
+number of moves made: 246
+Termination.STALEMATE, Length: 29.57 seconds
+simple (WHITE) vs medium (BLACK): None 1/2-1/2
+. . . . . . . .
+. . . . . . . .
+. . . . . . . n
+. . . . . . . .
+. . K . . . . .
+. . . . k . . .
+. . . . . . . .
+. . . . . . . .
+number of moves made: 331
+Termination.INSUFFICIENT_MATERIAL, Length: 23.11 seconds
+medium (WHITE) vs simple (BLACK): None 1/2-1/2
+. . . . . . . .
+. . . . . . . .
+. . . . . . . .
+. . . . . K . .
+. k . . . . . .
+. . . . . . . .
+. . . . . . . .
+. . . . . . . .
+number of moves made: 388
+Termination.INSUFFICIENT_MATERIAL, Length: 23.42 seconds
+medium (WHITE) vs complex (BLACK): None 1/2-1/2
+. . . . . . . .
+. . K . . . . .
+. . . . . . . .
+. . . . . . . .
+. . . . . . . .
+. . . . . . . .
+. . . . . . . .
+. . . . k . . .
+number of moves made: 523
+Termination.INSUFFICIENT_MATERIAL, Length: 72.83 seconds
+complex (WHITE) vs medium (BLACK): None 1/2-1/2
+. . . k . . . .
+. . . . . . . .
+. . . . . . . .
+. . . . . . . .
+. . . . . . . .
+K . . . . . . .
+. . . . . . . .
+. . . . . . . .
+number of moves made: 655
+Termination.INSUFFICIENT_MATERIAL, Length: 73.00 seconds
+complex (WHITE) vs simple (BLACK): None 1/2-1/2
+. . . . . . . .
+. . . . . . . .
+. . . . . . . .
+. . . . . . . .
+. . . . . . . .
+. . . . . . . K
+. . . . . . . b
+. . . . . k . .
+number of moves made: 421
+Termination.INSUFFICIENT_MATERIAL, Length: 43.00 seconds
+simple (WHITE) vs complex (BLACK): None 1/2-1/2
+. . . . . . . .
+. . . . . . . .
+. . . . . . . .
+K . . . . . n .
+. . . . . . . .
+. . . . . . . .
+. . . . . . . .
+. . k . . . . .
+number of moves made: 415
+Termination.INSUFFICIENT_MATERIAL, Length: 59.07 seconds
+simple (WHITE) vs medium (BLACK): None 1/2-1/2
+. . . . . . . .
+. . K . . . . .
+. . . . . . . .
+. . . . . . . .
+. . k . . . . .
+. . . . . . . .
+. . . . . . . .
+. . . . . . . .
+number of moves made: 558
+Termination.INSUFFICIENT_MATERIAL, Length: 25.22 seconds
+medium (WHITE) vs simple (BLACK): None 1/2-1/2
+. . . . . . . .
+. . . . . . . .
+. . . . . . . .
+. . . . . . . .
+. . K . . . . .
+. . . . . . . .
+. k . . . . . .
+. . . . . . . .
+number of moves made: 832
+Termination.INSUFFICIENT_MATERIAL, Length: 52.03 seconds
+medium (WHITE) vs complex (BLACK): None 1/2-1/2
+. . . . . . . .
+. . . . K . . .
+. . . . . . . .
+. . . . . . . .
+. . . . . . . .
+. . k . . . . .
+. . . . . . . .
+. . . . . . . .
+number of moves made: 1217
+Termination.INSUFFICIENT_MATERIAL, Length: 180.32 seconds
+complex (WHITE) vs medium (BLACK): None 1/2-1/2
+. . . . . . . .
+. . . . . . . .
+. . . . . . . .
+. . . . . . k .
+. K . . . . . .
+. . . . . . . .
+. . . . . . . .
+. . . . . . . .
+number of moves made: 524
+Termination.INSUFFICIENT_MATERIAL, Length: 64.64 seconds
+complex (WHITE) vs simple (BLACK): None 1/2-1/2
+. . . . . . . .
+. . . . . . . .
+. . K . . . . .
+. . . . . . . .
+. . . . . . . .
+. . . . k . . .
+. . . . . . . .
+. . . . . . . .
+number of moves made: 828
+Termination.INSUFFICIENT_MATERIAL, Length: 109.17 seconds
+simple (WHITE) vs complex (BLACK): None 1/2-1/2
+. . . . . . . .
+. . . N . . . .
+. . . . . . . .
+. . . . . . . .
+. k . . . . . .
+. . . . . . K .
+. . . . . . . .
+. . . . . . . .
+number of moves made: 613
+Termination.INSUFFICIENT_MATERIAL, Length: 86.09 seconds
+simple (WHITE) vs medium (BLACK): False 0-1
+. . . . . . . .
+. . . . . . . k
+. . . . p . . p
+. . . . . . . .
+. . . . . . . .
+r . . . . . . .
+. . q . . . . .
+. r . . . . K .
+number of moves made: 152
+Termination.CHECKMATE, Length: 15.42 seconds
+medium (WHITE) vs simple (BLACK): None 1/2-1/2
+. . . . . . . .
+. . . N . . . .
+. . . . . . . .
+K . . . . . . .
+. . . k . . . .
+. . . . . . . .
+. . . . . . . .
+. . . . . . . .
+number of moves made: 554
+Termination.INSUFFICIENT_MATERIAL, Length: 37.36 seconds
+medium (WHITE) vs complex (BLACK): None 1/2-1/2
+. . . . . . . .
+. . . . . . . .
+. . . . . . . .
+. . . . . . . .
+K . . . . . . .
+. . . . . . . .
+. . . . . . . .
+k b . . . . . .
+number of moves made: 408
+Termination.INSUFFICIENT_MATERIAL, Length: 47.81 seconds
+complex (WHITE) vs medium (BLACK): True 1-0
+r . . . . . n r
+p b . . . . . p
+. . . . p . . .
+q . . k . . . .
+. P N p . . . .
+. . p P B . . P
+P . P . K . B .
+R . . . . . . R
+number of moves made: 47
+Termination.CHECKMATE, Length: 13.02 seconds
+complex (WHITE) vs simple (BLACK): None 1/2-1/2
+. . . . . . K .
+. . . . . . . .
+. . . . . . . .
+. . . B . . . .
+. . . . . . . .
+. . . . Q . . .
+. . . . . . . k
+. . . . . . . .
+number of moves made: 561
+Termination.STALEMATE, Length: 75.24 seconds
+simple (WHITE) vs complex (BLACK): None 1/2-1/2
+. . . . . . . .
+. . K . . . . .
+. . . . . . . .
+. . . . . . k .
+B . . . . . . .
+. . . . . . . .
+. . . . . . . .
+. . . . . . . .
+number of moves made: 244
+Termination.INSUFFICIENT_MATERIAL, Length: 28.34 seconds
+simple (WHITE) vs medium (BLACK): None 1/2-1/2
+. . N . . . . K
+. . . . . . . .
+. . . . . . . .
+. . . . . . . .
+. . . . . . . .
+. . . . . . . .
+. . . . . k . .
+. . . . . . . .
+number of moves made: 313
+Termination.INSUFFICIENT_MATERIAL, Length: 19.54 seconds
+medium (WHITE) vs simple (BLACK): None 1/2-1/2
+. . . . . . . .
+. . . . . . . .
+. . . . . . . .
+. . . . . . . .
+. . . . . . . .
+. . . . . . b .
+. . . . . k . .
+. . . K . . . .
+number of moves made: 333
+Termination.INSUFFICIENT_MATERIAL, Length: 21.97 seconds
+medium (WHITE) vs complex (BLACK): None 1/2-1/2
+. . . K . . . .
+. . . . . . . .
+. . . . q . . .
+. . . . . . . .
+. . . . . . k .
+. . . . . . . .
+. . . . . . . .
+. . q . . . . .
+number of moves made: 250
+Termination.STALEMATE, Length: 41.88 seconds
+complex (WHITE) vs medium (BLACK): False 0-1
+k . . . . . . .
+. . . . p . . .
+. P . . P . . .
+. . . . P . . .
+. . p . . . . .
+. . . . . . . .
+. . . r . . . .
+K . r . . . . .
+number of moves made: 110
+Termination.CHECKMATE, Length: 23.39 seconds
+complex (WHITE) vs simple (BLACK): None 1/2-1/2
+. . . . . . . .
+. . . . . . . .
+. . . K . . . .
+. . . . . . . .
+. . k . N . . .
+. . . . . . . .
+. . . . . . . .
+. . . . . . . .
+number of moves made: 762
+Termination.INSUFFICIENT_MATERIAL, Length: 88.48 seconds
+simple (WHITE) vs complex (BLACK): None 1/2-1/2
+. . . . . . . .
+. . . . . . . .
+. . . . . . . .
+K . . . . . . .
+. . . . . . . .
+. . . k . . . .
+. . . . . . . .
+. . . . . . . .
+number of moves made: 901
+Termination.INSUFFICIENT_MATERIAL, Length: 128.53 seconds
+simple (WHITE) vs medium (BLACK): None 1/2-1/2
+. . . . . . . .
+. . . . . . k .
+. p . . . . . p
+. P . . . . . .
+. . . . . . . p
+p . . q . . . .
+. . . p . . . .
+. . . K . . . .
+number of moves made: 208
+Termination.STALEMATE, Length: 17.01 seconds
+medium (WHITE) vs simple (BLACK): False 0-1
+. . . . . . . .
+. . . . . . . .
+. . . K q . . .
+. . . . . . . .
+. . . . . . . .
+. . . k . . . .
+. . r . . . . .
+. . . . q . Q .
+number of moves made: 648
+Termination.CHECKMATE, Length: 42.62 seconds
+medium (WHITE) vs complex (BLACK): None 1/2-1/2
+. . . . . . . .
+. . . . . . . .
+. . . . . . . .
+. . . . . . . .
+k . K . . . . .
+. . . . . . . .
+. . . . . . . .
+. . . . . . . .
+number of moves made: 362
+Termination.INSUFFICIENT_MATERIAL, Length: 42.80 seconds
+complex (WHITE) vs medium (BLACK): None 1/2-1/2
+. . . . k . B .
+. . . . . . . .
+. . . . . . . .
+. . . B . . K .
+. . . . . . . .
+. . . . . . . .
+. . . . . . . .
+. . . . . . . .
+number of moves made: 169
+Termination.INSUFFICIENT_MATERIAL, Length: 37.53 seconds
+complex (WHITE) vs simple (BLACK): None 1/2-1/2
+. . . . . . . .
+. . . . . . . .
+. . K . . . . .
+. . . . . . . .
+. . . . . . . .
+. . . . . . . .
+. . . . . . . .
+. . . k . . . .
+number of moves made: 380
+Termination.INSUFFICIENT_MATERIAL, Length: 63.39 seconds
+simple (WHITE) vs complex (BLACK): None 1/2-1/2
+. . . . . . . .
+. . K . . . . .
+. . . . . . . .
+. . . . . . . .
+. . . . . . . .
+. . . . . . . .
+k . . . . . . .
+. . . . . . . .
+number of moves made: 1199
+Termination.INSUFFICIENT_MATERIAL, Length: 176.75 seconds
+simple (WHITE) vs medium (BLACK): None 1/2-1/2
+. . . . . . . .
+. . . . . . . .
+. . . . . . . .
+. . K . . . . .
+. . . . . . . .
+. . . . . . . .
+. . . . . k . .
+. . n . . . . .
+number of moves made: 338
+Termination.INSUFFICIENT_MATERIAL, Length: 20.81 seconds
+medium (WHITE) vs simple (BLACK): None 1/2-1/2
+. . . . . . . .
+. . . . . . . .
+. . . . . . . .
+. . . . . . . .
+. . . . . . . .
+. . . . . . K .
+. . . . k . . .
+. b . . . . . .
+number of moves made: 659
+Termination.INSUFFICIENT_MATERIAL, Length: 27.97 seconds
+medium (WHITE) vs complex (BLACK): None 1/2-1/2
+. . . . . . . .
+. . . . . . K .
+. . . . . . . .
+. n . . . . . .
+. . . . . . . .
+. . . . . . . .
+. . . . . . . k
+. . . . . . . .
+number of moves made: 270
+Termination.INSUFFICIENT_MATERIAL, Length: 38.41 seconds
+complex (WHITE) vs medium (BLACK): None 1/2-1/2
+. . . . . . . .
+. . . . . . . .
+K . . . . . . .
+. . . . . . . .
+. . . . . . . .
+. . b . . . . .
+. . . . k . . .
+. . . . . . . .
+number of moves made: 314
+Termination.INSUFFICIENT_MATERIAL, Length: 43.87 seconds
+complex (WHITE) vs simple (BLACK): None 1/2-1/2
+. . . . . . . .
+. . . . . . . .
+. K . . . . . .
+. b . . . . . .
+. . . . . . . .
+. . . . . . . .
+. . . k . . . .
+. . . . . . . .
+number of moves made: 300
+Termination.INSUFFICIENT_MATERIAL, Length: 49.20 seconds
+simple (WHITE) vs complex (BLACK): None 1/2-1/2
+. . . . . . . .
+. . . . . . . .
+. . . . . k . .
+. . . K . . . .
+. . . . . . . .
+. . . . . . . .
+. . . . . . . .
+. . . . . . . .
+number of moves made: 1502
+Termination.INSUFFICIENT_MATERIAL, Length: 85.75 seconds
+simple (WHITE) vs medium (BLACK): None 1/2-1/2
+. . . . . . . .
+. . . . . . . .
+. K . . N . . .
+. . . . k . . .
+. . . . . . . .
+. . . . . . . .
+. . . . . . . .
+. . . . . . . .
+number of moves made: 432
+Termination.INSUFFICIENT_MATERIAL, Length: 19.92 seconds
+medium (WHITE) vs simple (BLACK): None 1/2-1/2
+B . . . . . . .
+. . . . . . . .
+. . . . . . . .
+. . . . . . . .
+. K . . . . . .
+. . . . . . . .
+. . . . k . . .
+. . . . . . . .
+number of moves made: 324
+Termination.INSUFFICIENT_MATERIAL, Length: 21.14 seconds
+medium (WHITE) vs complex (BLACK): None 1/2-1/2
+. . . . . . . .
+. . . . . . . .
+. . K . . . . .
+. . . . . . . .
+. . . . . k . .
+. . . . . . . .
+. . . . . . . .
+. . . . . . . .
+number of moves made: 1079
+Termination.INSUFFICIENT_MATERIAL, Length: 160.73 seconds
+complex (WHITE) vs medium (BLACK): None 1/2-1/2
+. . . . . K . .
+. . . . . . . .
+. . . . . . . .
+. . . . . . . .
+. . . . . . . .
+. . . . k . . .
+. . . . . . . .
+. . . . . . . .
+number of moves made: 236
+Termination.INSUFFICIENT_MATERIAL, Length: 33.59 seconds
+complex (WHITE) vs simple (BLACK): None 1/2-1/2
+. . . . . . K .
+. . . . . . . .
+. . . . . . . .
+. . . . . . . .
+. . . . . . . .
+. . . . k . . .
+. . . . . . . .
+. . . . . . . .
+number of moves made: 922
+Termination.INSUFFICIENT_MATERIAL, Length: 118.96 seconds
+simple (WHITE) vs complex (BLACK): None 1/2-1/2
+. . . . . . . .
+. . . . . . . .
+. . . . . . . .
+K . . . . . . .
+. . . . . . . .
+. . . k . . . .
+. . . . . . . .
+. . . . . . . .
+number of moves made: 773
+Termination.INSUFFICIENT_MATERIAL, Length: 97.78 seconds
+simple (WHITE) vs medium (BLACK): False 0-1
+. . . . . . . .
+. p p . . . . p
+p P . . . . p k
+. . . . p p . .
+. P . . . . r K
+P Q r . . . . .
+. . . P P . . P
+. N . . R . N R
+number of moves made: 76
+Termination.CHECKMATE, Length: 6.52 seconds
+medium (WHITE) vs simple (BLACK): None 1/2-1/2
+. . . . . . . k
+. . . . . Q . .
+. . . . . . . .
+. . . . . . . .
+. K . . . . . .
+. . . . . . . .
+. . . . . . . .
+. R . . . . . .
+number of moves made: 389
+Termination.STALEMATE, Length: 31.00 seconds
+medium (WHITE) vs complex (BLACK): None 1/2-1/2
+. . . . . . . .
+. . . . . . . .
+. . . . . . . .
+K . . . . . . .
+. . . . . . . .
+. . . . . . . .
+. . . . . . . .
+k . . . . . . .
+number of moves made: 1401
+Termination.INSUFFICIENT_MATERIAL, Length: 197.32 seconds
+complex (WHITE) vs medium (BLACK): None 1/2-1/2
+. . . . . . . .
+. . k . . . . .
+. . . . . . . .
+. . . . . . . .
+. . . . . . . .
+. . K . . . . .
+. . . . . . . .
+. . . . . . . .
+number of moves made: 239
+Termination.INSUFFICIENT_MATERIAL, Length: 33.99 seconds
+complex (WHITE) vs simple (BLACK): None 1/2-1/2
+. . . . . . . .
+. . . . . K . .
+. . . . . . . .
+. k . . . . . .
+. . . . . . . .
+. . . . . . . .
+. . . . . . . .
+. . . . . . . .
+number of moves made: 840
+Termination.INSUFFICIENT_MATERIAL, Length: 104.58 seconds
+simple (WHITE) vs complex (BLACK): None 1/2-1/2
+. . . . . . . .
+. . . . . . . .
+. . . . . . . .
+. . K . k . . .
+. . . . . . . .
+. . . . . . . .
+. . . . . . . .
+. . . . . . . .
+number of moves made: 661
+Termination.INSUFFICIENT_MATERIAL, Length: 88.20 seconds
+simple (WHITE) vs medium (BLACK): True 1-0
+. . . . R . k .
+. . . R . . . .
+. P R . . . . .
+. . P . . p . .
+p b . . . . p .
+. . . . . . . .
+. . K . . . . .
+. . . . . . . .
+number of moves made: 165
+Termination.CHECKMATE, Length: 14.19 seconds
+medium (WHITE) vs simple (BLACK): True 1-0
+. . . . . r . k
+. . . . . R . .
+. . . . P . . N
+p . . . . . . .
+. p . . . . . .
+. . . . p . P .
+. B . . . . R .
+. . K . . . . .
+number of moves made: 115
+Termination.CHECKMATE, Length: 12.00 seconds
+medium (WHITE) vs complex (BLACK): None 1/2-1/2
+. . . . . . . .
+. . . . k . . .
+. . . . . . . .
+. . . . . . . .
+. K . . . . . .
+. . . . . . . .
+. . . . . . . .
+. . . . . . . .
+number of moves made: 810
+Termination.INSUFFICIENT_MATERIAL, Length: 78.50 seconds
+complex (WHITE) vs medium (BLACK): None 1/2-1/2
+. . . . . . . .
+. . . . . . . .
+. . . b . . . .
+. . . . . . . .
+. . . . . . . .
+. K . . . k . .
+. . . . . . . .
+. . . . . . . .
+number of moves made: 301
+Termination.INSUFFICIENT_MATERIAL, Length: 45.78 seconds
+complex (WHITE) vs simple (BLACK): None 1/2-1/2
+. k . . . . . .
+. . . . . . . .
+. . . . . . . .
+. . . . . . . .
+. . . . . . K .
+. . . . . . . .
+. . . . . N . .
+. . . . . . . .
+number of moves made: 303
+Termination.INSUFFICIENT_MATERIAL, Length: 57.11 seconds
+simple (WHITE) vs complex (BLACK): None 1/2-1/2
+. . . . . . . .
+. . . . . . . .
+. . K . . . . .
+. . . . . . . .
+. . . . . . . .
+k . . . . . . .
+. . . . . . . .
+. . . . . . . .
+number of moves made: 669
+Termination.INSUFFICIENT_MATERIAL, Length: 81.61 seconds
+simple (WHITE) vs medium (BLACK): None 1/2-1/2
+. . . . . . . .
+k . . . . . . .
+. . . K . . . .
+. . . . . . . .
+. . . . . . . .
+. . . . . . . .
+. . . . . . . .
+. . . . . . . .
+number of moves made: 1317
+Termination.INSUFFICIENT_MATERIAL, Length: 46.99 seconds
+medium (WHITE) vs simple (BLACK): True 1-0
+. . Q k . r . .
+. . . . r . . p
+p p . N . n p P
+. . . p . . . .
+P . . P p . . P
+. . . P . R . .
+. P . . . . . .
+. R . . K B . .
+number of moves made: 61
+Termination.CHECKMATE, Length: 6.30 seconds
+medium (WHITE) vs complex (BLACK): None 1/2-1/2
+. . . . . . . .
+. . . . . . . .
+. . . . . . . .
+. . K . . . . .
+. . . . . . . .
+k . . . . . . .
+. . . . . . . .
+. . . . . . . .
+number of moves made: 392
+Termination.INSUFFICIENT_MATERIAL, Length: 41.96 seconds
+complex (WHITE) vs medium (BLACK): None 1/2-1/2
+. . . . . . . .
+. . . . . . . .
+. . . . k . . .
+. . . . . . . .
+. . . . . . . .
+K . . . . . . .
+. . . . . . . .
+. . b . . . . .
+number of moves made: 352
+Termination.INSUFFICIENT_MATERIAL, Length: 33.15 seconds
+complex (WHITE) vs simple (BLACK): None 1/2-1/2
+. . . . . . . .
+. . . K . . . .
+. . . . . . . .
+. k . . . . . .
+. . . . . . . .
+. . . . . . . .
+. . . . . . . .
+. . . . . . . .
+number of moves made: 550
+Termination.INSUFFICIENT_MATERIAL, Length: 61.24 seconds
+simple (WHITE) vs complex (BLACK): None 1/2-1/2
+. . . . . . . .
+. . . . . . . .
+. . K . . . . .
+. . . . . . . .
+. . . . . . . .
+. . . . . . . .
+. . . . . k . .
+. . . . . . . .
+number of moves made: 971
+Termination.INSUFFICIENT_MATERIAL, Length: 92.11 seconds
+simple (WHITE) vs medium (BLACK): None 1/2-1/2
+. . . . . . . .
+. . . . . . . .
+. . . . . . . .
+. . . . . . K .
+. . . . . . . .
+. . . . . . . .
+. . . k . . . .
+. . N . . . . .
+number of moves made: 209
+Termination.INSUFFICIENT_MATERIAL, Length: 14.67 seconds
+medium (WHITE) vs simple (BLACK): True 1-0
+. Q . k . . . .
+. . . . . . . .
+. . . K . . . .
+. . . . . . . .
+. . . . . . . .
+P . . . . . . .
+. . . . . . . .
+. . . . . . . .
+number of moves made: 239
+Termination.CHECKMATE, Length: 15.01 seconds
+medium (WHITE) vs complex (BLACK): None 1/2-1/2
+. . . . . . . .
+. . . . . . . .
+. . . . . . . .
+. . . . . . . .
+. K . . . . . .
+. . . . . k . .
+. . . . . . . .
+. . . . . . b .
+number of moves made: 342
+Termination.INSUFFICIENT_MATERIAL, Length: 49.74 seconds
+complex (WHITE) vs medium (BLACK): None 1/2-1/2
+. . . . . . . .
+. K . . . . . .
+. . . . . . . .
+. . . . . . . .
+. . k . . . . .
+. . . . . . . .
+. . . . . . . .
+. . . . . . . .
+number of moves made: 570
+Termination.INSUFFICIENT_MATERIAL, Length: 71.26 seconds
+complex (WHITE) vs simple (BLACK): None 1/2-1/2
+. . . . . . . .
+. k B K . P . .
+. . . . P . . .
+. . . . . . . p
+R . . . . . . P
+. . . . . . . .
+. . . . . . . .
+. . . . . . . .
+number of moves made: 229
+Termination.STALEMATE, Length: 38.76 seconds
+simple (WHITE) vs complex (BLACK): None 1/2-1/2
+. . . . . . . .
+. N . . k . . .
+K . . . . . . .
+. . . . . . . .
+. . . . . . . .
+. . . . . . . .
+. . . . . . . .
+. . . . . . . .
+number of moves made: 205
+Termination.INSUFFICIENT_MATERIAL, Length: 33.55 seconds
+simple (WHITE) vs medium (BLACK): None 1/2-1/2
+. . . . . . . b
+. . . . . . . .
+. . . . . . . .
+. K . . . . . .
+. . . . . k . .
+. . . . . . . .
+. . . . . . . .
+. . . . . . . .
+number of moves made: 711
+Termination.INSUFFICIENT_MATERIAL, Length: 42.39 seconds
+medium (WHITE) vs simple (BLACK): None 1/2-1/2
+. . . . . . . .
+. . . . . . . .
+. . . B . . . .
+. . . . K . . k
+. . . . . . . .
+. . . . . . . .
+. . . . . . . .
+. . . . . . . .
+number of moves made: 370
+Termination.INSUFFICIENT_MATERIAL, Length: 27.66 seconds
+medium (WHITE) vs complex (BLACK): None 1/2-1/2
+. . . . . . . .
+. . . . . . . .
+. . . . . . . .
+. . . . . . . .
+. . . . . . . .
+. . k . . . . .
+. . . . . . . K
+. . . . q q . .
+number of moves made: 342
+Termination.STALEMATE, Length: 45.54 seconds
+complex (WHITE) vs medium (BLACK): None 1/2-1/2
+. . . B . . . .
+. . . . . . . .
+. . . . . . . .
+K . . . . . . .
+. . . . . . . .
+. . . . k . . .
+. . . . . . . .
+. . . . . . . .
+number of moves made: 171
+Termination.INSUFFICIENT_MATERIAL, Length: 29.60 seconds
+complex (WHITE) vs simple (BLACK): True 1-0
+k . . . . . . .
+. . . N . . . .
+. . P . K . . .
+. . . . . . . .
+. . . P . N . .
+. . . . . . . P
+R . . . . . . .
+. . . r . . . .
+number of moves made: 237
+Termination.CHECKMATE, Length: 43.99 seconds
+simple (WHITE) vs complex (BLACK): None 1/2-1/2
+. . . . . . . .
+. . . . . . . .
+. . . . . . . .
+. b . . . . . .
+. . . . . . . .
+. . k . . . K .
+. . . . . . . .
+. . . . . . . .
+number of moves made: 665
+Termination.INSUFFICIENT_MATERIAL, Length: 65.21 seconds
+simple (WHITE) vs medium (BLACK): None 1/2-1/2
+. . . . . . . .
+. . . . . . . .
+K . . . . . . .
+P . . . . . r .
+. . . b b . . .
+. . . k . . . .
+. . . . . . . .
+. . . . . . . .
+number of moves made: 440
+Termination.STALEMATE, Length: 27.95 seconds
+medium (WHITE) vs simple (BLACK): None 1/2-1/2
+. . . . . . . .
+. . . . . Q K .
+. . P . . . . .
+. . . . . . . .
+. . . B . . . Q
+. . . . . . . .
+. . . . . . k .
+. . . . . . . .
+number of moves made: 435
+Termination.STALEMATE, Length: 35.63 seconds
+medium (WHITE) vs complex (BLACK): None 1/2-1/2
+. . . . . . r .
+. . . b k . . .
+p . p . . . . .
+. p . . n . . p
+. P . . . b . P
+. . . p . . . .
+. . . . . . . .
+. . . . . . . K
+number of moves made: 106
+Termination.STALEMATE, Length: 23.92 seconds
+complex (WHITE) vs medium (BLACK): None 1/2-1/2
+. . . . . . . .
+. . . . . . . .
+. . . . . . B .
+. K . . . . . p
+. . . . . . . P
+. . . . Q . . .
+. . . . . . . .
+. . . k . . . .
+number of moves made: 647
+Termination.STALEMATE, Length: 77.85 seconds
+complex (WHITE) vs simple (BLACK): True 1-0
+. . . r . k . .
+. . . . . Q . R
+. . . . . . . .
+. . . p . p . .
+K . . . P . . .
+. . . . P . . P
+. . . . . . N q
+. N . . . B . R
+number of moves made: 115
+Termination.CHECKMATE, Length: 22.83 seconds
+simple (WHITE) vs complex (BLACK): None 1/2-1/2
+. . . . . k . .
+. . . . . . . .
+. . K . . . . .
+. . . . . . . .
+. . . . . . . .
+. . . . . . . .
+. . . . . . . .
+. . . . . . . .
+number of moves made: 461
+Termination.INSUFFICIENT_MATERIAL, Length: 54.82 seconds
+simple (WHITE) vs medium (BLACK): None 1/2-1/2
+. . . . . . . .
+. . . . K . . .
+. . . . . . . .
+. . k . . . . .
+. . . . b . . .
+. . . . . . . .
+. . . . . . . .
+. . . . . . . .
+number of moves made: 307
+Termination.INSUFFICIENT_MATERIAL, Length: 19.07 seconds
+medium (WHITE) vs simple (BLACK): True 1-0
+. k . . . . . Q
+. . . Q . . . .
+. . . . . . . .
+p . . . . . . .
+. . p B . . . .
+. n . . . p . .
+. . . . . K b .
+. . . . n . . .
+number of moves made: 157
+Termination.CHECKMATE, Length: 15.72 seconds
+medium (WHITE) vs complex (BLACK): None 1/2-1/2
+. . . . k . . .
+. . . . . . Q .
+. . . . . B . .
+. . . . . . . .
+. . . . . . . .
+. . . P . . . .
+. . . K . . . .
+. . . . . . . .
+number of moves made: 305
+Termination.STALEMATE, Length: 41.38 seconds
+complex (WHITE) vs medium (BLACK): None 1/2-1/2
+. . . . . . . .
+. . . . . . . .
+. . . . . K . .
+. . . . . . . .
+. . . . . . . .
+. . . . . . . .
+. . . . . . . .
+k . . . . . . .
+number of moves made: 285
+Termination.INSUFFICIENT_MATERIAL, Length: 40.58 seconds
+complex (WHITE) vs simple (BLACK): None 1/2-1/2
+. . . . . . . .
+. . . . . . K .
+. . . . . . . .
+. . . . . . . .
+. . . . . . . .
+. . . . k . . .
+. . . . . . . .
+. . . . . . . .
+number of moves made: 816
+Termination.INSUFFICIENT_MATERIAL, Length: 103.59 seconds
+simple (WHITE) vs complex (BLACK): True 1-0
+r . b q k b . r
+p . . . . Q . .
+. n . . . n . .
+. p p . . . . .
+. . B P p . . .
+P . . . . P . .
+N P P . . . P P
+R . B . . K N R
+number of moves made: 27
+Termination.CHECKMATE, Length: 7.60 seconds
+simple (WHITE) vs medium (BLACK): None 1/2-1/2
+. . . . . . . .
+. . . . . . . .
+. . . . . . . .
+. . . . . . . .
+. K . . . . . .
+. . . . . . . .
+. . b . . . k .
+. . . . . . . .
+number of moves made: 541
+Termination.INSUFFICIENT_MATERIAL, Length: 45.25 seconds
+medium (WHITE) vs simple (BLACK): True 1-0
+. . . . . . . r
+. . p n . . . R
+. . q . . r . p
+. . p p . . . P
+p P . k . p . P
+N . . . . P . .
+P B . P P . K .
+R b . . . B . .
+number of moves made: 59
+Termination.CHECKMATE, Length: 5.51 seconds
+medium (WHITE) vs complex (BLACK): None 1/2-1/2
+. . . . . k . K
+. . r . . . . .
+. . . . . . . .
+. . . . . . . .
+. . . . . . . .
+. . . . . . . .
+. . . . . . . .
+. . r . . . . .
+number of moves made: 256
+Termination.STALEMATE, Length: 45.18 seconds
+complex (WHITE) vs medium (BLACK): None 1/2-1/2
+. . . . . . . .
+. . . . . . . .
+. . . . K . . .
+. . . . . . . .
+. . . . . . . .
+. . . . k . . .
+. . . . . . . .
+. . . . . . . .
+number of moves made: 332
+Termination.INSUFFICIENT_MATERIAL, Length: 42.68 seconds
+complex (WHITE) vs simple (BLACK): None 1/2-1/2
+. . . . . . . .
+. . . . . . . .
+. . . . . . . .
+. . K . . . . .
+. . . . . . . .
+. . . . . . . .
+. . . k . . . .
+. . . . . . . .
+number of moves made: 540
+Termination.INSUFFICIENT_MATERIAL, Length: 75.79 seconds
+simple (WHITE) vs complex (BLACK): None 1/2-1/2
+. . . . . . . .
+. . . . . . . .
+. . K . . . . .
+. . . . . . . .
+. . . . . . . .
+. . . . k . . .
+. . . . . . . .
+. . . . . . . .
+number of moves made: 919
+Termination.INSUFFICIENT_MATERIAL, Length: 112.07 seconds
+simple (WHITE) vs medium (BLACK): None 1/2-1/2
+. . . . . . . .
+. . . . . . . .
+. . . . . . . .
+. . . . . . . .
+. . . . . . . .
+. . . . . . . .
+. . q . . k . .
+K . . . . . . .
+number of moves made: 258
+Termination.STALEMATE, Length: 17.42 seconds
+medium (WHITE) vs simple (BLACK): None 1/2-1/2
+. . . . . . . .
+. . . . . . . .
+. . . . . . . .
+. P . . . . . .
+. Q R . . . . .
+. . . . . . . .
+. . . . . K B k
+. . . . . . . .
+number of moves made: 185
+Termination.STALEMATE, Length: 15.01 seconds
+medium (WHITE) vs complex (BLACK): None 1/2-1/2
+. . . . . . . .
+. k . . . . . .
+. . . . . . . .
+. . . . . . . .
+. K . . . . . .
+. . . . . . . .
+. . . . . . . .
+. . . . . . . .
+number of moves made: 290
+Termination.INSUFFICIENT_MATERIAL, Length: 42.15 seconds
+complex (WHITE) vs medium (BLACK): None 1/2-1/2
+. . . . . . . .
+. . . . . . . .
+. . . K . . . .
+. . . . . . . .
+. . . . . . . .
+. . . . k . . .
+. . . . . . . .
+. . . . . . . .
+number of moves made: 358
+Termination.INSUFFICIENT_MATERIAL, Length: 55.24 seconds
+complex (WHITE) vs simple (BLACK): None 1/2-1/2
+. . . . . . . .
+. . . . . . . .
+k . . . . . . .
+. . . . . . . .
+. . . . . . . .
+. . . . n . . .
+. . . . . . . .
+. . . . . . K .
+number of moves made: 312
+Termination.INSUFFICIENT_MATERIAL, Length: 37.35 seconds
+simple (WHITE) vs complex (BLACK): None 1/2-1/2
+. . . . . . . .
+. . . . . . . .
+. . . . . . . .
+. . . . . . . .
+. K . . . . k .
+. . . . . . . .
+. . . . . . . .
+. . . . . . . .
+number of moves made: 1778
+Termination.INSUFFICIENT_MATERIAL, Length: 244.50 seconds
+simple (WHITE) vs medium (BLACK): True 1-0
+r q . . . r k .
+. B p . . . Q p
+. . . n . B . .
+. P . . . . . .
+n . . . . p P P
+. P . P . . . .
+. . P . P p . R
+. . . . . K . .
+number of moves made: 61
+Termination.CHECKMATE, Length: 5.95 seconds
+medium (WHITE) vs simple (BLACK): None 1/2-1/2
+. . . . . . . .
+. . . K . . . .
+. . . . . . . .
+. . . . . . . .
+. . . . . . . .
+. . . . . . . .
+. . . k . . . .
+. . . . . . . .
+number of moves made: 614
+Termination.INSUFFICIENT_MATERIAL, Length: 27.24 seconds
+medium (WHITE) vs complex (BLACK): None 1/2-1/2
+. . . . . . . .
+. . . . . . . .
+. . . . . . . .
+. . . . . n . .
+. . . . . . . .
+. . . . k . . .
+. . . . . . . .
+. . . . . K . .
+number of moves made: 354
+Termination.INSUFFICIENT_MATERIAL, Length: 43.75 seconds
+complex (WHITE) vs medium (BLACK): None 1/2-1/2
+. . . . . . . .
+. . . . . . . .
+. K . . . . . .
+. . . . . . . .
+. . b k . . . .
+. . . . . . . .
+. . . . . . . .
+. . . b . . . .
+number of moves made: 636
+Termination.INSUFFICIENT_MATERIAL, Length: 69.26 seconds
+complex (WHITE) vs simple (BLACK): None 1/2-1/2
+. . . . . . . Q
+. . . . . . . .
+. . . . . . . .
+. . . . . . . .
+P . . . . . . .
+. . . Q K . . .
+k . . B . . . .
+. . . . . . . .
+number of moves made: 233
+Termination.STALEMATE, Length: 48.35 seconds
+simple (WHITE) vs complex (BLACK): False 0-1
+r . b . k . . .
+. . P . . p . .
+. . . . . . . .
+p . . . . . . .
+. . . B p . . P
+. P . . . . . .
+. R P q . . r K
+. . . . . . . R
+number of moves made: 84
+Termination.CHECKMATE, Length: 18.63 seconds
+simple (WHITE) vs medium (BLACK): None 1/2-1/2
+. . . . . . . .
+. K . . . . . .
+. . . . . . . .
+. . . . . . . .
+. . . . . k . .
+. . . . . . . .
+. . . . . . . .
+. . . . . . . .
+number of moves made: 1657
+Termination.INSUFFICIENT_MATERIAL, Length: 109.86 seconds
+medium (WHITE) vs simple (BLACK): True 1-0
+. . . . . . . R
+. . . P . . . .
+. . . . . . . k
+. . . . . P . P
+. B . . . . R .
+. . . . . P . .
+N . . . . . . .
+. K . . . . . .
+number of moves made: 107
+Termination.CHECKMATE, Length: 9.43 seconds
+medium (WHITE) vs complex (BLACK): None 1/2-1/2
+. . . . . . . .
+. . . . . . . .
+. . . . . . . .
+. . . . . . . k
+. . . . . . . .
+. . . . r . . .
+K . . . . . . .
+. . q . . . . .
+number of moves made: 416
+Termination.STALEMATE, Length: 57.06 seconds
+complex (WHITE) vs medium (BLACK): None 1/2-1/2
+. . . . . . . .
+. . . . . . . .
+N K . . . . . .
+. . . . k . . .
+. . . . . . . .
+. . . . . . . .
+. . . . . . . .
+. . . . . . . .
+number of moves made: 312
+Termination.INSUFFICIENT_MATERIAL, Length: 41.05 seconds
+complex (WHITE) vs simple (BLACK): None 1/2-1/2
+. . . . . . . .
+. . . K . . . .
+. . . . . . . .
+. . . . . . . .
+. . . . . . . .
+. . . . . . . .
+. . . . k . . .
+. . . . . . b .
+number of moves made: 608
+Termination.INSUFFICIENT_MATERIAL, Length: 52.24 seconds
+simple (WHITE) vs complex (BLACK): None 1/2-1/2
+. . . . . . . .
+. . . . . . . .
+. . . . . . . .
+. . . . . . . .
+. K . . . . . .
+. . . . . . . .
+. . . . . . . .
+k . . . . . . .
+number of moves made: 309
+Termination.INSUFFICIENT_MATERIAL, Length: 52.21 seconds
+simple (WHITE) vs medium (BLACK): None 1/2-1/2
+. . . . . . . .
+. . . K . . . .
+. . . . . . . .
+. . . . . . . .
+. . . . . k . .
+. . . . . . . .
+. . . . . . . .
+. . . . . . . n
+number of moves made: 588
+Termination.INSUFFICIENT_MATERIAL, Length: 37.27 seconds
+medium (WHITE) vs simple (BLACK): None 1/2-1/2
+. . . . . . . .
+. . . . . . . .
+. . k . . . . .
+. . . . . . . .
+. . K . . . . .
+. . . . . . . .
+. . . . . . . .
+. . . . . . . .
+number of moves made: 232
+Termination.INSUFFICIENT_MATERIAL, Length: 16.10 seconds
+medium (WHITE) vs complex (BLACK): None 1/2-1/2
+. . k . . . . B
+. . . . . . . .
+. . . . . . . .
+. . . K . . . .
+. . . . . . . .
+. . . . . . . .
+. . . . . . . .
+. . . . . . . .
+number of moves made: 279
+Termination.INSUFFICIENT_MATERIAL, Length: 38.57 seconds
+complex (WHITE) vs medium (BLACK): None 1/2-1/2
+. . . . k . . .
+. . . . . . . .
+. . . . . . . .
+. . . . . . K .
+. . . B . . . .
+. . . . . . . .
+. . . . . . . .
+. . . . . . . .
+number of moves made: 244
+Termination.INSUFFICIENT_MATERIAL, Length: 37.72 seconds
+complex (WHITE) vs simple (BLACK): None 1/2-1/2
+. . . . . . . .
+. . . . . . . .
+. . K . . . . .
+. . . . . . . .
+. . k . . . . .
+. . . . . . . .
+. . . . . . . .
+. . . . . . . .
+number of moves made: 702
+Termination.INSUFFICIENT_MATERIAL, Length: 94.42 seconds
+simple (WHITE) vs complex (BLACK): None 1/2-1/2
+. . . . . . . .
+. . . . . . . .
+. . . K . . . .
+. . . . . . . .
+. . . . . k . .
+. . . . . . . .
+. . . . b . . .
+. . . . . . . .
+number of moves made: 1303
+Termination.INSUFFICIENT_MATERIAL, Length: 164.03 seconds
+simple (WHITE) vs medium (BLACK): None 1/2-1/2
+. . . . . . . .
+b . . . . . . .
+. . . . . . . k
+p . . . . . . .
+P . . . . . . .
+. . . . . q . .
+K . . . . . . .
+. . q . . . . .
+number of moves made: 234
+Termination.STALEMATE, Length: 19.98 seconds
+medium (WHITE) vs simple (BLACK): None 1/2-1/2
+. . . . . . . .
+. . . . . . . .
+. . . . . . . .
+. . . . K . . .
+. . . . . . . .
+. . . . . . . .
+. . n . . . . .
+. . k . . . . .
+number of moves made: 413
+Termination.INSUFFICIENT_MATERIAL, Length: 19.10 seconds
+medium (WHITE) vs complex (BLACK): None 1/2-1/2
+. . . n . . . .
+. . . . . . . .
+. . . . . . . .
+. . . . . K . .
+. . . . . . . .
+. . . . . . . .
+. . . . . . . .
+. . . k . . . .
+number of moves made: 453
+Termination.INSUFFICIENT_MATERIAL, Length: 59.97 seconds
+complex (WHITE) vs medium (BLACK): None 1/2-1/2
+. . . . . . . .
+. . . . k . . .
+. . . . . . . .
+. . . . . . . .
+. . . . . . . .
+. . . . . . . .
+. . . . K . . .
+. . . . . . . .
+number of moves made: 262
+Termination.INSUFFICIENT_MATERIAL, Length: 36.69 seconds
+complex (WHITE) vs simple (BLACK): None 1/2-1/2
+. . . . . . . .
+. . . . . . . K
+. . . . . . . .
+. . . . . . . .
+. . . . . . . .
+. . . . . . . .
+. . . . . . . .
+. . . . . k . .
+number of moves made: 363
+Termination.INSUFFICIENT_MATERIAL, Length: 52.92 seconds
+simple (WHITE) vs complex (BLACK): None 1/2-1/2
+. . . . . . . .
+. . . . . . . .
+. . . . . k . .
+. . . . . . . .
+. . . . . . . .
+. . K . . . . .
+. . . . . . . .
+. . . . . b . .
+number of moves made: 264
+Termination.INSUFFICIENT_MATERIAL, Length: 43.53 seconds
+simple (WHITE) vs medium (BLACK): None 1/2-1/2
+. . . . . . . .
+. . . . . k . .
+. . . . . . . .
+. . . . . . r .
+. . . . . . . .
+p . . . . . . .
+. . r . . b . .
+. . . . . K . .
+number of moves made: 452
+Termination.STALEMATE, Length: 34.48 seconds
+medium (WHITE) vs simple (BLACK): None 1/2-1/2
+. . . . . . . .
+. . . . . . R .
+. . . . . . . .
+. . . . Q . . .
+. . . . . . . k
+P . . . . . . .
+. . . . . . K .
+. . . . . . . .
+number of moves made: 317
+Termination.STALEMATE, Length: 26.69 seconds
+medium (WHITE) vs complex (BLACK): True 1-0
+. . . . . r . .
+p b p q R . . .
+n . n . . . . k
+. . . p . . B p
+. . p P . . R .
+N . . . . r . P
+P P B . K P . .
+. . . . . . . .
+number of moves made: 63
+Termination.CHECKMATE, Length: 17.76 seconds
+complex (WHITE) vs medium (BLACK): None 1/2-1/2
+. . . . . K . .
+. . . . . . . .
+. . . . . . . .
+. . . . . . . .
+. . . . . . . .
+. . . . k . . .
+. . . . . . . .
+. . . . . . . .
+number of moves made: 504
+Termination.INSUFFICIENT_MATERIAL, Length: 82.65 seconds
+complex (WHITE) vs simple (BLACK): None 1/2-1/2
+. . . . . . . .
+. . . . . . . .
+. . . . . . . .
+. . . . . . . .
+. . . . . . . .
+. . . . n . . .
+. . r . . . k .
+. . . . K . . .
+number of moves made: 324
+Termination.STALEMATE, Length: 41.09 seconds
+simple (WHITE) vs complex (BLACK): None 1/2-1/2
+. . . . . . . .
+. . . . . . . .
+. . K . . . . .
+. . . . . . . .
+. . . . . . . .
+. . . . . . . .
+. . . . . . . .
+. . . . k . . .
+number of moves made: 699
+Termination.INSUFFICIENT_MATERIAL, Length: 82.82 seconds
+simple (WHITE) vs medium (BLACK): None 1/2-1/2
+. . . . . . . .
+. . . . . . . .
+. . . . . . k .
+. . . . . . . .
+K . . . . . . .
+. . . . . . . .
+. . . . . . . .
+. . . . . . . .
+number of moves made: 367
+Termination.INSUFFICIENT_MATERIAL, Length: 24.71 seconds
+medium (WHITE) vs simple (BLACK): None 1/2-1/2
+. . . . . . . .
+. . . . . . . .
+. . . . . . . .
+. . . . . . . .
+. K . . . . . .
+. . . . . . . .
+. . . . . . . .
+. . . k . . . .
+number of moves made: 316
+Termination.INSUFFICIENT_MATERIAL, Length: 21.33 seconds
+medium (WHITE) vs complex (BLACK): None 1/2-1/2
+. . . . . . . .
+. . . . . . . .
+. . . . . . . .
+. . . . . . K .
+. . . . . . . .
+. . . . . . . .
+. . . . . n . .
+. . . k . . . .
+number of moves made: 281
+Termination.INSUFFICIENT_MATERIAL, Length: 39.22 seconds
+complex (WHITE) vs medium (BLACK): None 1/2-1/2
+. . . . . . . .
+. . . . . . . .
+. . . . . . . .
+. . . . . . K .
+. . . . . . . .
+. . . b . k . .
+. . b . . . . .
+. . . . . . . .
+number of moves made: 395
+Termination.INSUFFICIENT_MATERIAL, Length: 55.65 seconds
+complex (WHITE) vs simple (BLACK): None 1/2-1/2
+. K . . . . . .
+. . . . . . . .
+. . . . . . . .
+. . . . . . . .
+. . . . . . . .
+. . . . . . . .
+. . . . . k . .
+. . . b . . . .
+number of moves made: 398
+Termination.INSUFFICIENT_MATERIAL, Length: 46.24 seconds
+simple (WHITE) vs complex (BLACK): None 1/2-1/2
+. . . . . . . .
+. . . k . . . .
+. . . . . . . .
+. . . . . . . .
+. K . . . . . .
+. . . . . . . .
+. . . . . . . .
+. . . . . . . .
+number of moves made: 2340
+Termination.INSUFFICIENT_MATERIAL, Length: 227.13 seconds
+simple (WHITE) vs medium (BLACK): None 1/2-1/2
+. . . . . . . .
+. . . . . . . .
+. . . . . . . .
+. . . . . . . .
+. . . . . . . .
+. . . K . . . .
+. . . . . . . .
+. . . . . . k .
+number of moves made: 523
+Termination.INSUFFICIENT_MATERIAL, Length: 31.64 seconds
+medium (WHITE) vs simple (BLACK): True 1-0
+. R . . . . k .
+. . . . . R . .
+. . . . . . . .
+p . . B . . . r
+P . . . . p . .
+. b . . . N . R
+. . . . . . . .
+. K . . n . . .
+number of moves made: 107
+Termination.CHECKMATE, Length: 11.53 seconds
+medium (WHITE) vs complex (BLACK): None 1/2-1/2
+. . . . . . . .
+. . . . . B . .
+. . . . . . . k
+. . K . . . . .
+. . . . . . . .
+. . . . . . . .
+. . . . . . . .
+. . . . . . . .
+number of moves made: 253
+Termination.INSUFFICIENT_MATERIAL, Length: 44.13 seconds
+complex (WHITE) vs medium (BLACK): None 1/2-1/2
+. . . . . . . .
+. . . . . . . .
+. . K . . . . .
+. . . . . . . .
+. . . . . N . k
+. . . . . . . .
+. . . . . . . .
+. . . . . . . .
+number of moves made: 346
+Termination.INSUFFICIENT_MATERIAL, Length: 46.72 seconds
+complex (WHITE) vs simple (BLACK): None 1/2-1/2
+. . . . . . . .
+. . . . . . . .
+. . . . . . K .
+. . . . . . . .
+. . . . . . . .
+. . . . . . . .
+b . . . . . . .
+k . . . . . . .
+number of moves made: 329
+Termination.INSUFFICIENT_MATERIAL, Length: 45.97 seconds
+simple (WHITE) vs complex (BLACK): None 1/2-1/2
+. . . . . . . .
+. . . . . . . .
+. . . . . . . .
+. . . . k . . .
+. . . . . . . .
+. . . . . . . .
+. K . . . . . .
+. . . . . . . .
+number of moves made: 729
+Termination.INSUFFICIENT_MATERIAL, Length: 75.52 seconds
+simple (WHITE) vs medium (BLACK): None 1/2-1/2
+. . . . . . . .
+. . . . . K . .
+. . . . . . . .
+. . . k . . . .
+. . . . . . . .
+. . . . . b . .
+. . . . . . . .
+. . . . . . . .
+number of moves made: 651
+Termination.INSUFFICIENT_MATERIAL, Length: 34.16 seconds
+medium (WHITE) vs simple (BLACK): None 1/2-1/2
+B . . . . . . .
+. . . . . . . .
+. . . . . . . .
+. . K . . . . .
+. . . . . . . .
+. . . k . . . .
+. . . . . . . .
+. . . . . . . .
+number of moves made: 463
+Termination.INSUFFICIENT_MATERIAL, Length: 20.57 seconds
+medium (WHITE) vs complex (BLACK): None 1/2-1/2
+. . . . . . . K
+. . . . . . . .
+. . . . . . k .
+. . . . . . . .
+. . q . . . . .
+. . . . . . . .
+. . . . . . . .
+. . . . . . . .
+number of moves made: 3206
+Termination.STALEMATE, Length: 434.58 seconds
+complex (WHITE) vs medium (BLACK): None 1/2-1/2
+. . . . . . . .
+. . . . . . . .
+. . . . . . . .
+. . . . . . . .
+. . . . . . k .
+. . . . . . . .
+. . . . K . . .
+. . . . . . . .
+number of moves made: 511
+Termination.INSUFFICIENT_MATERIAL, Length: 56.33 seconds
+complex (WHITE) vs simple (BLACK): None 1/2-1/2
+. . . . K . . .
+. . . . . . . .
+. . . . . . . .
+. . . . . . . .
+. . . . . . . .
+. . . . k . . .
+. . . . . . . .
+. . . . . . . .
+number of moves made: 566
+Termination.INSUFFICIENT_MATERIAL, Length: 81.51 seconds
+simple (WHITE) vs complex (BLACK): None 1/2-1/2
+. . . . . . . .
+. . . . . . . .
+. . k . . . . .
+. . . . . . . .
+. K . . . . . .
+. . . b . . . .
+. . . . . . . .
+. . . . . . . .
+number of moves made: 278
+Termination.INSUFFICIENT_MATERIAL, Length: 34.11 seconds
+simple (WHITE) vs medium (BLACK): True 1-0
+. . b q . . . r
+. . k p n . p n
+. Q . b . . . p
+. . P . p . . .
+. . . . . . . .
+. P N . . P . N
+P B P . P . B P
+. . R . K . R .
+number of moves made: 39
+Termination.CHECKMATE, Length: 2.91 seconds
+medium (WHITE) vs simple (BLACK): None 1/2-1/2
+. . . . . . . .
+. . . . . . . .
+. . . . . . . .
+. . . . K . . .
+. . . . . . . .
+. . . . . . . .
+. . . . . . . .
+. k . . . . . .
+number of moves made: 516
+Termination.INSUFFICIENT_MATERIAL, Length: 34.80 seconds
+medium (WHITE) vs complex (BLACK): False 0-1
+. . . . k . . .
+. . . p . . R .
+b . . r . . . .
+. . p . . . P .
+P p . . . . . .
+. . K . P . . .
+. . . . . r B .
+. . . b . . . .
+number of moves made: 96
+Termination.CHECKMATE, Length: 23.79 seconds
+complex (WHITE) vs medium (BLACK): None 1/2-1/2
+. . . . . . . .
+. . . k . . . .
+. . . . . . . .
+. . . . K . . .
+. . . . . . . .
+. . . . . . . .
+. . . . . . . .
+. . . . . . . .
+number of moves made: 299
+Termination.INSUFFICIENT_MATERIAL, Length: 47.64 seconds
+complex (WHITE) vs simple (BLACK): None 1/2-1/2
+. . . . . . Q .
+. . . . . . . .
+P . . . . . . .
+. . . . . . K .
+. . . . k . . .
+. . Q . . . . .
+. . . . . . . .
+. . . . . . . .
+number of moves made: 251
+Termination.STALEMATE, Length: 40.32 seconds
+simple (WHITE) vs complex (BLACK): None 1/2-1/2
+. . . . . . . .
+. . . . . . . .
+. . K . . . . .
+. . . . . . . .
+. . . . . . . .
+. . . . . . . .
+. . . . . . . .
+. . . . k . . .
+number of moves made: 1279
+Termination.INSUFFICIENT_MATERIAL, Length: 137.69 seconds
+simple (WHITE) vs medium (BLACK): None 1/2-1/2
+. . . . . . . .
+b . K . . . . k
+. . . . . . . .
+. . . . . . . .
+. . . . . . . .
+. . . . . . . .
+. . . . . . . .
+. . . . . . . .
+number of moves made: 484
+Termination.INSUFFICIENT_MATERIAL, Length: 31.42 seconds
+medium (WHITE) vs simple (BLACK): None 1/2-1/2
+. . . . . . . k
+. . . . . . . .
+. . . . . . Q .
+. . . . . . . .
+. K . . . . . .
+. . . . . . . .
+. . . . . . . .
+. . . . . . . .
+number of moves made: 587
+Termination.STALEMATE, Length: 24.28 seconds
+medium (WHITE) vs complex (BLACK): None 1/2-1/2
+. . . . . . . .
+. . . . . . . .
+. . . . . . . .
+. . . . . . . .
+. . k . . . . .
+. . . . . . . .
+. . . b K . . .
+. . . . . . . .
+number of moves made: 415
+Termination.INSUFFICIENT_MATERIAL, Length: 51.22 seconds
+complex (WHITE) vs medium (BLACK): None 1/2-1/2
+. . . . . . . .
+. . . . . . . .
+. . . . . . . .
+. . . . . . . .
+. K . . . . . .
+. . . . . . . .
+. . . . . . . .
+. . k . . . . .
+number of moves made: 428
+Termination.INSUFFICIENT_MATERIAL, Length: 60.29 seconds
+complex (WHITE) vs simple (BLACK): None 1/2-1/2
+. . . . . . . .
+. . . . . . . .
+. . . . . . . K
+. . . . . . . .
+. . . . . . . .
+. . . . . . . k
+. . . . . . . .
+. . . . . . b .
+number of moves made: 808
+Termination.INSUFFICIENT_MATERIAL, Length: 66.30 seconds
+simple (WHITE) vs complex (BLACK): None 1/2-1/2
+. . . . . . . .
+. . . . p . . p
+p . . . . . p .
+P . . . . k P .
+. r . . n b . .
+. . . . n . . .
+. . . . . . . .
+. . K . . . . .
+number of moves made: 122
+Termination.STALEMATE, Length: 27.15 seconds
+simple (WHITE) vs medium (BLACK): False 0-1
+. . . . . . . .
+. . . . . . . .
+. . P . . . . .
+p P . . . . . r
+. . . . n . . .
+. . . k . . . .
+. . . . b r . .
+. r . . . . K .
+number of moves made: 142
+Termination.CHECKMATE, Length: 13.15 seconds
+medium (WHITE) vs simple (BLACK): None 1/2-1/2
+r n K . . . . .
+. . . . . . . .
+p . k . . . . .
+. . . . . . . .
+. p . r . . . .
+. . p . . . . .
+. . . . . . . .
+. . . . . b . n
+number of moves made: 134
+Termination.STALEMATE, Length: 11.01 seconds
+medium (WHITE) vs complex (BLACK): False 0-1
+. . . . . . k .
+. . . . . . . .
+. . . . . . . .
+. . . . . . . .
+. . . . . . . .
+. . . p . . . .
+. . . q . . . .
+. . r . . K . .
+number of moves made: 132
+Termination.CHECKMATE, Length: 28.67 seconds
+complex (WHITE) vs medium (BLACK): None 1/2-1/2
+. . . . . . . .
+. . . . K . . .
+. . . . . . . .
+. k . . . . . .
+. . . . . . . .
+. . . . . . . .
+. . . . . . . .
+. . . . . . . .
+number of moves made: 538
+Termination.INSUFFICIENT_MATERIAL, Length: 68.17 seconds
+complex (WHITE) vs simple (BLACK): None 1/2-1/2
+. . . . . . . .
+. K . . . . . .
+. . . . . . . .
+. . . . . . . .
+. . . . . . . .
+k . . . . . . .
+. . . . . . . .
+. . . . . . . .
+number of moves made: 1830
+Termination.INSUFFICIENT_MATERIAL, Length: 199.13 seconds
+simple (WHITE) vs complex (BLACK): None 1/2-1/2
+. . . . k . . .
+. . K . . . . .
+. . . . . . . .
+. . . . . . . .
+. . . . . . . .
+. . . . . . . .
+. . . . . . . .
+. . . . . . . .
+number of moves made: 346
+Termination.INSUFFICIENT_MATERIAL, Length: 43.24 seconds
+simple (WHITE) vs medium (BLACK): False 0-1
+. . . . . . . .
+. . . . . . . .
+K . k . . . . .
+. . . . . . . .
+. . . . . . . .
+. . . . q . p .
+q . . . . . . .
+. . b . . . . .
+number of moves made: 394
+Termination.CHECKMATE, Length: 28.35 seconds
+medium (WHITE) vs simple (BLACK): None 1/2-1/2
+. . . . . . . .
+. . . . . . . .
+. . . . . . . .
+. . . . . . . .
+. K . . N . . .
+. . . . . . . .
+. . . . k . . .
+. . . . . . . .
+number of moves made: 459
+Termination.INSUFFICIENT_MATERIAL, Length: 22.82 seconds
+medium (WHITE) vs complex (BLACK): None 1/2-1/2
+. . . . . . . .
+. . . . . . . .
+. . . . . k . .
+. . . . . . . .
+. . . . . . . .
+. . . . . . . .
+. . . . . . K .
+. . . . . . . .
+number of moves made: 613
+Termination.INSUFFICIENT_MATERIAL, Length: 64.46 seconds
+complex (WHITE) vs medium (BLACK): None 1/2-1/2
+. . . . . . . .
+. . . . . . . .
+. . . K . . . .
+. . . . . . . .
+. . . . . . . .
+. . . . k . . .
+. . . . . . . .
+. . . . . . . .
+number of moves made: 486
+Termination.INSUFFICIENT_MATERIAL, Length: 62.49 seconds
+complex (WHITE) vs simple (BLACK): None 1/2-1/2
+. . . . K . . .
+. . . . . . . .
+. . . . . . . .
+. . . . . . . .
+. . . . . . . P
+N . . . Q . . .
+. B . . . . . .
+. . . k . . . .
+number of moves made: 327
+Termination.STALEMATE, Length: 59.08 seconds
+simple (WHITE) vs complex (BLACK): None 1/2-1/2
+. . . . . K . .
+. . . . . . . .
+. . . . . . . .
+. . . . k . . .
+. . . . . . . .
+. . . . . . . .
+n . . . . . . .
+. . . . . . . .
+number of moves made: 148
+Termination.INSUFFICIENT_MATERIAL, Length: 27.61 seconds
+simple (WHITE) vs medium (BLACK): None 1/2-1/2
+. . . . . . . .
+. . . . . . . .
+. . . . . . . .
+. . . . . . . .
+. . . . . . . .
+k . . K . . . .
+. . . . . . . .
+. . . . . . . .
+number of moves made: 389
+Termination.INSUFFICIENT_MATERIAL, Length: 25.21 seconds
+medium (WHITE) vs simple (BLACK): False 0-1
+. . . . . . k .
+. . . . . . . .
+. . P . P . . .
+. . . P . . . .
+P . . . . . . p
+. . n . . . . .
+. . . . . . . .
+K r . . . . . .
+number of moves made: 118
+Termination.CHECKMATE, Length: 9.95 seconds
+medium (WHITE) vs complex (BLACK): None 1/2-1/2
+. . . . . . . k
+. . . . . . . .
+. . . . . . . .
+. . . . . . . b
+. . . . . . . .
+. p . . p . . .
+. . . . . r . .
+. . n . K . . .
+number of moves made: 216
+Termination.STALEMATE, Length: 40.99 seconds
+complex (WHITE) vs medium (BLACK): None 1/2-1/2
+. . R . . . . .
+. . . . . . . .
+. . . . . K . .
+. . . . . . . .
+. . . . . . . .
+. . . . Q . . .
+. . . . . . . .
+. . . k . . . .
+number of moves made: 401
+Termination.STALEMATE, Length: 77.47 seconds
+complex (WHITE) vs simple (BLACK): None 1/2-1/2
+. . . . . . . .
+. . . . . . . .
+. . . . . . . .
+. . . . . . . .
+K . . . . k . .
+. . . . . . . .
+. . . . . . . .
+. n . . . . . .
+number of moves made: 454
+Termination.INSUFFICIENT_MATERIAL, Length: 51.57 seconds
+simple (WHITE) vs complex (BLACK): None 1/2-1/2
+. . . . . . . .
+. . . . . . . .
+. . . K . . . .
+. . . . . . . .
+. . . . . . . .
+. . . . . . . .
+. . k . . . . .
+. . . . N . . .
+number of moves made: 241
+Termination.INSUFFICIENT_MATERIAL, Length: 42.72 seconds
